@@ -1,0 +1,95 @@
+import json
+
+
+def lambda_handler(event, context):
+
+    print("Received student:")
+    print(json.dumps(event))
+
+    # Get student details
+    student_id = event.get("student_id")
+    roll_no = event.get("roll_no")
+    student_name = event.get("student_name")
+    gender = event.get("gender")
+    department = event.get("department")
+    section = event.get("section")
+    city = event.get("city")
+    email = event.get("email")
+    placement_status = event.get("placement_status")
+
+    # Convert numeric values
+    age = int(event.get("age", 0))
+    year = int(event.get("year", 0))
+    cgpa = float(event.get("cgpa", 0))
+    attendance = float(event.get("attendance_percent", 0))
+    backlogs = int(event.get("backlogs", 0))
+
+    errors = []
+
+    # Age validation
+    if age < 17 or age > 30:
+        errors.append("Invalid age")
+
+    # CGPA validation
+    if cgpa < 0 or cgpa > 10:
+        errors.append("Invalid CGPA")
+
+    # Attendance validation
+    if attendance < 0 or attendance > 100:
+        errors.append("Invalid attendance")
+
+    # Minimum attendance requirement
+    if attendance < 75:
+        errors.append("Low attendance")
+
+    # CGPA requirement
+    if cgpa < 6:
+        errors.append("Low CGPA")
+
+    # Backlog check
+    if backlogs > 2:
+        errors.append("High number of backlogs")
+
+    # Department validation
+    valid_departments = [
+        "CSE",
+        "ECE",
+        "EEE",
+        "MECH",
+        "CIVIL",
+        "AI&DS"
+    ]
+
+    if department not in valid_departments:
+        errors.append("Invalid department")
+
+    # Final validation result
+    if errors:
+        result = "REVIEW"
+    else:
+        result = "VALID"
+
+    # Create response
+    response = {
+        "student_id": student_id,
+        "roll_no": roll_no,
+        "student_name": student_name,
+        "gender": gender,
+        "age": age,
+        "department": department,
+        "year": year,
+        "section": section,
+        "cgpa": cgpa,
+        "attendance_percent": attendance,
+        "backlogs": backlogs,
+        "email": email,
+        "city": city,
+        "placement_status": placement_status,
+        "validation_result": result,
+        "errors": errors
+    }
+
+    print("Processed student:")
+    print(json.dumps(response))
+
+    return response

@@ -1,0 +1,89 @@
+{
+  "Comment": "Student Data Distributed Processing",
+  "StartAt": "ProcessStudents",
+  "States": {
+    "ProcessStudents": {
+      "Type": "Map",
+      "Label": "ProcessStudents",
+      "MaxConcurrency": 10,
+
+      "ItemReader": {
+        "Resource": "arn:aws:states:::s3:getObject",
+        "ReaderConfig": {
+          "InputType": "CSV",
+          "CSVHeaderLocation": "FIRST_ROW"
+        },
+        "Parameters": {
+          "Bucket": "demoproject-aws",
+          "Key": "input/college_student_data_1000.csv"
+        }
+      },
+
+      "ItemSelector": {
+        "student_id.$": "$$.Map.Item.Value.student_id",
+        "roll_no.$": "$$.Map.Item.Value.roll_no",
+        "student_name.$": "$$.Map.Item.Value.student_name",
+        "gender.$": "$$.Map.Item.Value.gender",
+        "age.$": "$$.Map.Item.Value.age",
+        "department.$": "$$.Map.Item.Value.department",
+        "year.$": "$$.Map.Item.Value.year",
+        "section.$": "$$.Map.Item.Value.section",
+        "cgpa.$": "$$.Map.Item.Value.cgpa",
+        "attendance_percent.$": "$$.Map.Item.Value.attendance_percent",
+        "backlogs.$": "$$.Map.Item.Value.backlogs",
+        "phone.$": "$$.Map.Item.Value.phone",
+        "email.$": "$$.Map.Item.Value.email",
+        "city.$": "$$.Map.Item.Value.city",
+        "placement_status.$": "$$.Map.Item.Value.placement_status"
+      },
+
+      "ItemProcessor": {
+        "ProcessorConfig": {
+          "Mode": "DISTRIBUTED",
+          "ExecutionType": "EXPRESS"
+        },
+
+        "StartAt": "ProcessStudent",
+
+        "States": {
+          "ProcessStudent": {
+            "Type": "Task",
+            "Resource": "arn:aws:states:::lambda:invoke",
+
+            "OutputPath": "$.Payload",
+
+            "Parameters": {
+              "FunctionName": "arn:aws:lambda:ap-south-1:076785266737:function:studentrecord",
+              "Payload.$": "$"
+            },
+
+            "Retry": [
+              {
+                "ErrorEquals": [
+                  "Lambda.ServiceException",
+                  "Lambda.AWSLambdaException",
+                  "Lambda.SdkClientException"
+                ],
+                "IntervalSeconds": 2,
+                "MaxAttempts": 3,
+                "BackoffRate": 2
+              }
+            ],
+
+            "End": true
+          }
+        }
+      },
+
+      "ResultWriter": {
+        "Resource": "arn:aws:states:::s3:putObject",
+        "Parameters": {
+          "Bucket": "demoproject-aws",
+          "Prefix": "output/student-results"
+        }
+      },
+
+      "End": true
+    }
+  }
+}

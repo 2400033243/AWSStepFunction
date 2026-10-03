@@ -1,0 +1,1001 @@
+student_id,roll_no,student_name,gender,age,department,year,section,cgpa,attendance_percent,backlogs,phone,email,city,placement_status
+1,24CSE0001,Meghana Singh,Male,18,CSE,1,D,8.8,88.0,1,9193349856,meghana.singh1@college.edu,Rajahmundry,Not Eligible Yet
+2,24CSE0002,Anjali Verma,Male,18,CSE,1,D,8.13,89.3,1,9550455977,anjali.verma2@college.edu,Hyderabad,Not Eligible Yet
+3,24CSE0003,Deepak Joshi,Female,21,CSE,3,A,6.59,97.5,0,9199585092,deepak.joshi3@college.edu,Visakhapatnam,Not Eligible Yet
+4,24EEE0004,Manoj Kumar,Female,22,EEE,3,C,8.04,98.1,0,9692749116,manoj.kumar4@college.edu,Chennai,Not Eligible Yet
+5,24AIDS0005,Ananya Kumar,Male,21,AI&DS,2,C,8.94,98.5,1,9208449460,ananya.kumar5@college.edu,Visakhapatnam,Not Eligible Yet
+6,24AIDS0006,Rahul Naidu,Female,22,AI&DS,4,B,6.8,74.1,2,9795822698,rahul.naidu6@college.edu,Guntur,Eligible
+7,24MECH0007,Riya Das,Male,21,MECH,2,C,8.6,93.7,1,9345938494,riya.das7@college.edu,Vijayawada,Not Eligible Yet
+8,24EEE0008,Ananya Verma,Female,23,EEE,4,B,6.81,82.0,1,9790256940,ananya.verma8@college.edu,Nellore,Not Interested
+9,24ECE0009,Zoya Das,Female,21,ECE,2,D,9.41,78.6,0,9248532577,zoya.das9@college.edu,Kurnool,Not Eligible Yet
+10,24CSE0010,Bhavya Rao,Male,20,CSE,1,D,9.01,79.4,0,9509760584,bhavya.rao10@college.edu,Rajahmundry,Not Eligible Yet
+11,24CIVIL0011,Aarav Patel,Female,22,CIVIL,3,A,8.92,76.6,0,9269820594,aarav.patel11@college.edu,Nellore,Not Eligible Yet
+12,24CIVIL0012,Diya Patel,Female,22,CIVIL,3,A,9.2,82.3,0,9501486939,diya.patel12@college.edu,Tirupati,Not Eligible Yet
+13,24MECH0013,Aadhya Patel,Female,21,MECH,3,D,6.91,73.2,0,9184564737,aadhya.patel13@college.edu,Guntur,Not Eligible Yet
+14,24CIVIL0014,Charan Rao,Female,20,CIVIL,1,B,9.6,70.6,0,9751325257,charan.rao14@college.edu,Visakhapatnam,Not Eligible Yet
+15,24AIDS0015,Nisha Mehta,Female,21,AI&DS,2,C,7.66,82.6,0,9341266931,nisha.mehta15@college.edu,Guntur,Not Eligible Yet
+16,24CIVIL0016,Zoya Singh,Male,20,CIVIL,1,C,6.03,89.1,0,9172370545,zoya.singh16@college.edu,Vijayawada,Not Eligible Yet
+17,24CIVIL0017,Keerthi Das,Female,20,CIVIL,1,D,6.81,69.5,2,9713152854,keerthi.das17@college.edu,Rajahmundry,Not Eligible Yet
+18,24MECH0018,Sanjay Verma,Male,19,MECH,2,A,8.5,77.0,0,9882839238,sanjay.verma18@college.edu,Vijayawada,Not Eligible Yet
+19,24MECH0019,Pranav Patel,Male,18,MECH,1,B,6.72,80.3,0,9399085574,pranav.patel19@college.edu,Nellore,Not Eligible Yet
+20,24MECH0020,Zoya Patel,Male,18,MECH,1,D,9.68,96.5,1,9278575192,zoya.patel20@college.edu,Visakhapatnam,Not Eligible Yet
+21,24ECE0021,Rohit Kumar,Female,21,ECE,4,C,6.01,78.3,2,9943026227,rohit.kumar21@college.edu,Nellore,Placed
+22,24ECE0022,Harsha Iyer,Male,21,ECE,4,D,8.2,83.4,1,9161380746,harsha.iyer22@college.edu,Vijayawada,Eligible
+23,24CIVIL0023,Anjali Naidu,Male,18,CIVIL,1,A,8.57,73.0,0,9711684318,anjali.naidu23@college.edu,Hyderabad,Not Eligible Yet
+24,24MECH0024,Vishnu Nair,Male,19,MECH,1,D,8.54,75.7,0,9240529481,vishnu.nair24@college.edu,Chennai,Not Eligible Yet
+25,24CSE0025,Aarav Mishra,Male,22,CSE,3,B,6.28,72.2,0,9474745382,aarav.mishra25@college.edu,Guntur,Not Eligible Yet
+26,24EEE0026,Deepak Mishra,Female,22,EEE,3,C,8.32,98.6,0,9108399996,deepak.mishra26@college.edu,Kurnool,Not Eligible Yet
+27,24ECE0027,Manoj Patel,Male,18,ECE,1,D,7.03,85.6,1,9318610946,manoj.patel27@college.edu,Chennai,Not Eligible Yet
+28,24CSE0028,Anjali Joshi,Male,21,CSE,3,D,6.01,91.2,0,9381272327,anjali.joshi28@college.edu,Tirupati,Not Eligible Yet
+29,24CIVIL0029,Aarav Patel,Male,21,CIVIL,4,B,8.07,93.4,0,9259014493,aarav.patel29@college.edu,Visakhapatnam,Not Eligible Yet
+30,24EEE0030,Aditya Gupta,Male,20,EEE,3,B,8.53,77.0,0,9536344399,aditya.gupta30@college.edu,Rajahmundry,Not Eligible Yet
+31,24ECE0031,Diya Joshi,Male,19,ECE,2,C,8.8,76.3,2,9961393416,diya.joshi31@college.edu,Hyderabad,Not Eligible Yet
+32,24AIDS0032,Arjun Mehta,Female,19,AI&DS,2,B,6.85,92.8,0,9427696198,arjun.mehta32@college.edu,Hyderabad,Not Eligible Yet
+33,24AIDS0033,Harsha Mehta,Female,19,AI&DS,1,D,9.28,97.9,0,9788785773,harsha.mehta33@college.edu,Kurnool,Not Eligible Yet
+34,24CSE0034,Bhavya Das,Female,20,CSE,3,D,6.15,85.3,0,9944420824,bhavya.das34@college.edu,Bengaluru,Not Eligible Yet
+35,24MECH0035,Harsha Das,Female,18,MECH,1,C,6.01,96.5,0,9872482077,harsha.das35@college.edu,Hyderabad,Not Eligible Yet
+36,24CSE0036,Pranav Nair,Male,23,CSE,4,D,8.74,75.2,0,9538508549,pranav.nair36@college.edu,Bengaluru,Not Interested
+37,24ECE0037,Sanjay Mehta,Male,21,ECE,2,C,8.34,75.2,0,9100435874,sanjay.mehta37@college.edu,Chennai,Not Eligible Yet
+38,24MECH0038,Pavan Mishra,Female,20,MECH,2,A,8.57,82.4,1,9954725078,pavan.mishra38@college.edu,Tirupati,Not Eligible Yet
+39,24CIVIL0039,Pranav Sharma,Female,20,CIVIL,3,A,6.85,71.8,0,9362897676,pranav.sharma39@college.edu,Nellore,Not Eligible Yet
+40,24MECH0040,Harsha Mehta,Female,22,MECH,4,D,6.93,87.3,0,9906341966,harsha.mehta40@college.edu,Guntur,Eligible
+41,24AIDS0041,Vishnu Mishra,Male,19,AI&DS,2,C,9.49,69.1,0,9598906879,vishnu.mishra41@college.edu,Kurnool,Not Eligible Yet
+42,24CIVIL0042,Vamsi Joshi,Female,23,CIVIL,4,C,9.41,90.3,0,9378304807,vamsi.joshi42@college.edu,Hyderabad,Placed
+43,24EEE0043,Srinivas Sharma,Female,21,EEE,2,B,6.89,76.4,1,9186519602,srinivas.sharma43@college.edu,Tirupati,Not Eligible Yet
+44,24MECH0044,Chaitanya Verma,Female,19,MECH,2,D,7.55,83.4,0,9322086735,chaitanya.verma44@college.edu,Visakhapatnam,Not Eligible Yet
+45,24CIVIL0045,Riya Chowdhury,Female,18,CIVIL,1,B,7.13,78.3,1,9997356828,riya.chowdhury45@college.edu,Visakhapatnam,Not Eligible Yet
+46,24ECE0046,Meghana Joshi,Male,22,ECE,4,D,7.48,87.7,1,9877583839,meghana.joshi46@college.edu,Tirupati,Eligible
+47,24MECH0047,Aadhya Sharma,Female,20,MECH,1,B,6.52,80.7,0,9507059676,aadhya.sharma47@college.edu,Bengaluru,Not Eligible Yet
+48,24EEE0048,Pranav Mehta,Female,22,EEE,4,C,6.96,67.8,0,9679196799,pranav.mehta48@college.edu,Vijayawada,Eligible
+49,24AIDS0049,Aditya Reddy,Male,18,AI&DS,1,B,9.19,86.1,0,9608482316,aditya.reddy49@college.edu,Guntur,Not Eligible Yet
+50,24AIDS0050,Manoj Gupta,Male,21,AI&DS,4,C,8.96,70.6,0,9721358005,manoj.gupta50@college.edu,Vijayawada,Placed
+51,24AIDS0051,Harsha Sharma,Male,23,AI&DS,4,A,6.39,91.3,1,9744687060,harsha.sharma51@college.edu,Guntur,Not Interested
+52,24AIDS0052,Rahul Sharma,Female,23,AI&DS,4,D,6.05,79.3,0,9565492204,rahul.sharma52@college.edu,Bengaluru,Eligible
+53,24ECE0053,Vishnu Das,Female,23,ECE,4,A,7.77,93.1,0,9446071904,vishnu.das53@college.edu,Hyderabad,Not Interested
+54,24ECE0054,Swathi Mehta,Male,22,ECE,4,C,7.88,76.1,0,9480990401,swathi.mehta54@college.edu,Chennai,Not Interested
+55,24CIVIL0055,Aarav Verma,Male,20,CIVIL,3,D,8.74,81.6,1,9841536135,aarav.verma55@college.edu,Nellore,Not Eligible Yet
+56,24CSE0056,Anjali Iyer,Female,21,CSE,4,C,8.63,75.4,0,9608159580,anjali.iyer56@college.edu,Kurnool,Placed
+57,24EEE0057,Swathi Das,Female,21,EEE,3,B,6.88,89.5,0,9897662466,swathi.das57@college.edu,Kurnool,Not Eligible Yet
+58,24ECE0058,Tejas Das,Female,21,ECE,2,C,9.73,93.3,0,9487493096,tejas.das58@college.edu,Tirupati,Not Eligible Yet
+59,24AIDS0059,Yash Rao,Male,19,AI&DS,1,A,9.7,83.8,0,9235591568,yash.rao59@college.edu,Nellore,Not Eligible Yet
+60,24CIVIL0060,Nikhil Chowdhury,Female,19,CIVIL,1,A,7.29,97.8,0,9612957813,nikhil.chowdhury60@college.edu,Guntur,Not Eligible Yet
+61,24MECH0061,Ananya Kumar,Male,21,MECH,4,D,9.08,97.3,0,9366493008,ananya.kumar61@college.edu,Guntur,Eligible
+62,24MECH0062,Srinivas Iyer,Female,23,MECH,4,B,7.16,86.1,0,9894664845,srinivas.iyer62@college.edu,Guntur,Eligible
+63,24AIDS0063,Anjali Naidu,Male,20,AI&DS,3,D,8.1,70.3,0,9840206617,anjali.naidu63@college.edu,Rajahmundry,Not Eligible Yet
+64,24CSE0064,Karthik Iyer,Female,22,CSE,3,B,8.67,80.4,0,9384063364,karthik.iyer64@college.edu,Rajahmundry,Not Eligible Yet
+65,24CSE0065,Yash Singh,Male,23,CSE,4,C,9.45,93.1,0,9278158234,yash.singh65@college.edu,Chennai,Placed
+66,24MECH0066,Nisha Mehta,Female,19,MECH,1,C,7.66,85.3,1,9888699799,nisha.mehta66@college.edu,Bengaluru,Not Eligible Yet
+67,24CSE0067,Karthik Reddy,Female,20,CSE,1,C,8.19,90.9,0,9657233178,karthik.reddy67@college.edu,Nellore,Not Eligible Yet
+68,24CIVIL0068,Sneha Chowdhury,Female,19,CIVIL,2,D,7.32,76.3,0,9272684373,sneha.chowdhury68@college.edu,Bengaluru,Not Eligible Yet
+69,24EEE0069,Rohit Kumar,Male,22,EEE,4,A,7.2,76.0,2,9533979662,rohit.kumar69@college.edu,Kurnool,Placed
+70,24CSE0070,Harsha Gupta,Female,23,CSE,4,C,8.38,90.8,0,9689720101,harsha.gupta70@college.edu,Tirupati,Placed
+71,24CSE0071,Aadhya Singh,Male,23,CSE,4,D,7.18,65.5,0,9341270488,aadhya.singh71@college.edu,Guntur,Not Eligible Yet
+72,24MECH0072,Nikhil Das,Female,20,MECH,2,B,9.72,73.3,0,9511872350,nikhil.das72@college.edu,Hyderabad,Not Eligible Yet
+73,24EEE0073,Sanjay Nair,Female,20,EEE,1,D,9.12,74.6,0,9730219579,sanjay.nair73@college.edu,Rajahmundry,Not Eligible Yet
+74,24MECH0074,Yash Chowdhury,Female,20,MECH,2,B,8.1,83.5,0,9445505799,yash.chowdhury74@college.edu,Hyderabad,Not Eligible Yet
+75,24ECE0075,Sanjay Kumar,Female,22,ECE,4,D,8.68,92.6,0,9812630453,sanjay.kumar75@college.edu,Tirupati,Not Eligible Yet
+76,24CIVIL0076,Pranav Patel,Male,20,CIVIL,2,A,8.0,80.5,1,9540211187,pranav.patel76@college.edu,Tirupati,Not Eligible Yet
+77,24EEE0077,Pranav Mehta,Male,23,EEE,4,D,9.24,94.0,1,9508031980,pranav.mehta77@college.edu,Bengaluru,Not Eligible Yet
+78,24ECE0078,Nikhil Singh,Male,20,ECE,1,B,7.65,68.3,0,9207918827,nikhil.singh78@college.edu,Nellore,Not Eligible Yet
+79,24CSE0079,Aditya Nair,Female,20,CSE,3,B,7.36,79.6,0,9542437192,aditya.nair79@college.edu,Rajahmundry,Not Eligible Yet
+80,24ECE0080,Anjali Mehta,Male,21,ECE,2,D,7.89,84.8,0,9784944881,anjali.mehta80@college.edu,Chennai,Not Eligible Yet
+81,24AIDS0081,Aarav Mishra,Male,21,AI&DS,3,C,6.28,97.1,3,9421214426,aarav.mishra81@college.edu,Visakhapatnam,Not Eligible Yet
+82,24EEE0082,Harsha Mehta,Male,22,EEE,4,A,6.9,84.4,0,9850845198,harsha.mehta82@college.edu,Chennai,Placed
+83,24CSE0083,Akash Chowdhury,Male,21,CSE,3,B,8.31,77.0,0,9766676815,akash.chowdhury83@college.edu,Chennai,Not Eligible Yet
+84,24AIDS0084,Aditya Iyer,Male,19,AI&DS,1,D,8.2,89.9,0,9416872439,aditya.iyer84@college.edu,Bengaluru,Not Eligible Yet
+85,24ECE0085,Charan Gupta,Female,21,ECE,2,C,9.16,73.7,1,9617380166,charan.gupta85@college.edu,Chennai,Not Eligible Yet
+86,24MECH0086,Ananya Rao,Female,18,MECH,1,A,9.68,92.4,0,9948988297,ananya.rao86@college.edu,Visakhapatnam,Not Eligible Yet
+87,24CIVIL0087,Bhavya Mishra,Female,21,CIVIL,3,D,8.22,93.0,2,9216335741,bhavya.mishra87@college.edu,Hyderabad,Not Eligible Yet
+88,24CIVIL0088,Zoya Nair,Male,20,CIVIL,1,D,8.46,86.6,0,9852775879,zoya.nair88@college.edu,Chennai,Not Eligible Yet
+89,24ECE0089,Aditya Kumar,Female,19,ECE,1,C,6.44,73.0,0,9517305280,aditya.kumar89@college.edu,Nellore,Not Eligible Yet
+90,24CIVIL0090,Chaitanya Joshi,Male,23,CIVIL,4,C,9.17,85.9,2,9400368694,chaitanya.joshi90@college.edu,Vijayawada,Eligible
+91,24MECH0091,Keerthi Gupta,Female,21,MECH,4,B,8.07,98.2,0,9527499187,keerthi.gupta91@college.edu,Chennai,Not Eligible Yet
+92,24CSE0092,Ishita Reddy,Female,21,CSE,4,B,6.93,69.3,0,9173669588,ishita.reddy92@college.edu,Kurnool,Eligible
+93,24EEE0093,Chaitanya Reddy,Male,20,EEE,2,B,9.75,83.4,1,9218032515,chaitanya.reddy93@college.edu,Vijayawada,Not Eligible Yet
+94,24EEE0094,Keerthi Nair,Male,18,EEE,1,D,7.01,69.3,0,9222030010,keerthi.nair94@college.edu,Guntur,Not Eligible Yet
+95,24EEE0095,Vamsi Patel,Male,22,EEE,4,C,9.59,66.5,1,9807491789,vamsi.patel95@college.edu,Kurnool,Placed
+96,24CSE0096,Tejas Mehta,Male,19,CSE,1,B,7.86,95.9,0,9186748119,tejas.mehta96@college.edu,Bengaluru,Not Eligible Yet
+97,24ECE0097,Meghana Nair,Female,19,ECE,1,B,7.72,85.6,0,9853529912,meghana.nair97@college.edu,Guntur,Not Eligible Yet
+98,24MECH0098,Karthik Joshi,Female,22,MECH,4,C,7.52,89.8,0,9435569630,karthik.joshi98@college.edu,Chennai,Eligible
+99,24CSE0099,Anjali Sharma,Female,21,CSE,4,C,6.37,90.1,1,9697398528,anjali.sharma99@college.edu,Vijayawada,Not Eligible Yet
+100,24EEE0100,Sneha Kumar,Female,22,EEE,4,B,7.34,84.6,0,9805165232,sneha.kumar100@college.edu,Nellore,Not Eligible Yet
+101,24CIVIL0101,Rahul Patel,Male,21,CIVIL,3,A,9.07,93.7,2,9978779150,rahul.patel101@college.edu,Rajahmundry,Not Eligible Yet
+102,24CSE0102,Diya Das,Female,22,CSE,3,D,9.5,76.9,0,9253815116,diya.das102@college.edu,Rajahmundry,Not Eligible Yet
+103,24ECE0103,Aadhya Sharma,Male,20,ECE,1,A,7.43,80.4,0,9434618074,aadhya.sharma103@college.edu,Bengaluru,Not Eligible Yet
+104,24ECE0104,Deepak Kumar,Male,20,ECE,1,C,7.03,87.5,0,9574641329,deepak.kumar104@college.edu,Visakhapatnam,Not Eligible Yet
+105,24CIVIL0105,Bhavya Gupta,Male,20,CIVIL,2,A,7.08,88.1,0,9816328133,bhavya.gupta105@college.edu,Chennai,Not Eligible Yet
+106,24MECH0106,Akash Reddy,Female,19,MECH,2,A,9.59,91.1,1,9410791488,akash.reddy106@college.edu,Bengaluru,Not Eligible Yet
+107,24MECH0107,Sneha Naidu,Female,18,MECH,1,A,8.02,72.8,0,9817311263,sneha.naidu107@college.edu,Bengaluru,Not Eligible Yet
+108,24AIDS0108,Aditya Joshi,Female,21,AI&DS,4,D,9.5,94.3,0,9715683222,aditya.joshi108@college.edu,Visakhapatnam,Not Interested
+109,24MECH0109,Aadhya Nair,Female,18,MECH,1,D,9.16,96.3,0,9213669678,aadhya.nair109@college.edu,Hyderabad,Not Eligible Yet
+110,24CIVIL0110,Anjali Mehta,Female,22,CIVIL,4,B,6.84,91.5,0,9779919809,anjali.mehta110@college.edu,Guntur,Not Interested
+111,24AIDS0111,Chaitanya Singh,Male,20,AI&DS,3,B,6.97,70.9,0,9915133660,chaitanya.singh111@college.edu,Guntur,Not Eligible Yet
+112,24MECH0112,Srinivas Nair,Female,23,MECH,4,A,6.57,67.3,0,9425150964,srinivas.nair112@college.edu,Chennai,Not Interested
+113,24EEE0113,Swathi Mishra,Male,18,EEE,1,D,7.4,74.8,0,9196955134,swathi.mishra113@college.edu,Rajahmundry,Not Eligible Yet
+114,24CIVIL0114,Zoya Kumar,Male,22,CIVIL,4,A,7.22,81.2,0,9166436383,zoya.kumar114@college.edu,Nellore,Not Interested
+115,24CIVIL0115,Diya Kumar,Female,18,CIVIL,1,C,9.77,82.8,0,9490732457,diya.kumar115@college.edu,Bengaluru,Not Eligible Yet
+116,24MECH0116,Pranav Kumar,Female,23,MECH,4,B,6.25,68.2,0,9405100495,pranav.kumar116@college.edu,Chennai,Not Interested
+117,24CIVIL0117,Chaitanya Gupta,Female,19,CIVIL,1,C,6.49,89.1,0,9700138002,chaitanya.gupta117@college.edu,Visakhapatnam,Not Eligible Yet
+118,24AIDS0118,Vishnu Sharma,Female,21,AI&DS,2,D,7.93,65.6,0,9329987621,vishnu.sharma118@college.edu,Bengaluru,Not Eligible Yet
+119,24ECE0119,Charan Rao,Female,19,ECE,2,A,9.21,68.4,1,9996703082,charan.rao119@college.edu,Kurnool,Not Eligible Yet
+120,24CIVIL0120,Charan Mehta,Male,20,CIVIL,3,A,6.69,88.6,0,9277746324,charan.mehta120@college.edu,Nellore,Not Eligible Yet
+121,24EEE0121,Keerthi Mishra,Female,23,EEE,4,D,8.86,91.6,0,9356805216,keerthi.mishra121@college.edu,Chennai,Eligible
+122,24AIDS0122,Srinivas Mishra,Female,21,AI&DS,3,B,7.91,79.2,0,9314423806,srinivas.mishra122@college.edu,Rajahmundry,Not Eligible Yet
+123,24CSE0123,Tejas Gupta,Male,22,CSE,3,C,8.7,82.5,0,9190060226,tejas.gupta123@college.edu,Tirupati,Not Eligible Yet
+124,24CIVIL0124,Chaitanya Joshi,Male,21,CIVIL,4,D,9.1,95.1,2,9545492166,chaitanya.joshi124@college.edu,Vijayawada,Not Interested
+125,24MECH0125,Anjali Gupta,Male,19,MECH,2,B,7.21,68.4,1,9460015275,anjali.gupta125@college.edu,Tirupati,Not Eligible Yet
+126,24EEE0126,Tejas Rao,Female,20,EEE,1,B,7.7,65.2,0,9374796224,tejas.rao126@college.edu,Hyderabad,Not Eligible Yet
+127,24CSE0127,Nikhil Singh,Male,22,CSE,4,A,6.18,79.3,1,9590822013,nikhil.singh127@college.edu,Guntur,Placed
+128,24AIDS0128,Vamsi Singh,Male,20,AI&DS,1,B,7.11,65.1,0,9712745501,vamsi.singh128@college.edu,Visakhapatnam,Not Eligible Yet
+129,24CIVIL0129,Rahul Sharma,Male,20,CIVIL,1,A,7.48,81.0,0,9500830389,rahul.sharma129@college.edu,Chennai,Not Eligible Yet
+130,24CSE0130,Priya Singh,Male,22,CSE,3,C,8.93,90.0,0,9147605080,priya.singh130@college.edu,Bengaluru,Not Eligible Yet
+131,24AIDS0131,Swathi Chowdhury,Male,21,AI&DS,2,C,9.08,67.1,1,9591429705,swathi.chowdhury131@college.edu,Vijayawada,Not Eligible Yet
+132,24CSE0132,Harsha Kumar,Female,20,CSE,2,B,7.96,98.6,0,9371993587,harsha.kumar132@college.edu,Vijayawada,Not Eligible Yet
+133,24EEE0133,Akash Nair,Male,21,EEE,3,C,9.04,79.9,0,9572163615,akash.nair133@college.edu,Visakhapatnam,Not Eligible Yet
+134,24MECH0134,Varun Gupta,Female,21,MECH,2,C,9.04,89.7,0,9746879296,varun.gupta134@college.edu,Tirupati,Not Eligible Yet
+135,24CSE0135,Anjali Nair,Female,22,CSE,3,C,7.16,85.5,0,9840629322,anjali.nair135@college.edu,Nellore,Not Eligible Yet
+136,24CSE0136,Priya Joshi,Male,22,CSE,4,A,6.29,86.7,0,9960170255,priya.joshi136@college.edu,Tirupati,Eligible
+137,24CSE0137,Charan Sharma,Female,21,CSE,4,C,7.38,97.3,0,9264752975,charan.sharma137@college.edu,Nellore,Not Interested
+138,24CSE0138,Charan Gupta,Female,22,CSE,4,D,8.47,73.5,0,9889924866,charan.gupta138@college.edu,Tirupati,Placed
+139,24EEE0139,Manoj Mishra,Female,18,EEE,1,D,8.64,99.0,0,9245737277,manoj.mishra139@college.edu,Guntur,Not Eligible Yet
+140,24AIDS0140,Srinivas Sharma,Female,21,AI&DS,2,B,8.54,89.1,0,9411774120,srinivas.sharma140@college.edu,Chennai,Not Eligible Yet
+141,24EEE0141,Vamsi Singh,Male,19,EEE,2,C,9.01,73.0,0,9487509692,vamsi.singh141@college.edu,Kurnool,Not Eligible Yet
+142,24CIVIL0142,Charan Sharma,Female,21,CIVIL,4,A,7.51,89.4,0,9541087900,charan.sharma142@college.edu,Visakhapatnam,Eligible
+143,24AIDS0143,Ananya Mishra,Female,21,AI&DS,3,B,6.49,93.2,0,9731130400,ananya.mishra143@college.edu,Tirupati,Not Eligible Yet
+144,24CIVIL0144,Akash Patel,Male,23,CIVIL,4,C,7.16,70.5,2,9342096876,akash.patel144@college.edu,Bengaluru,Not Eligible Yet
+145,24ECE0145,Zoya Das,Female,20,ECE,3,B,8.33,68.2,0,9735449477,zoya.das145@college.edu,Rajahmundry,Not Eligible Yet
+146,24AIDS0146,Pranav Kumar,Male,19,AI&DS,2,D,6.17,86.8,0,9799145494,pranav.kumar146@college.edu,Hyderabad,Not Eligible Yet
+147,24MECH0147,Yash Iyer,Female,20,MECH,1,A,7.84,92.4,0,9419367188,yash.iyer147@college.edu,Nellore,Not Eligible Yet
+148,24ECE0148,Srinivas Joshi,Female,19,ECE,1,C,6.78,85.6,0,9871336275,srinivas.joshi148@college.edu,Bengaluru,Not Eligible Yet
+149,24ECE0149,Rahul Patel,Male,22,ECE,4,C,7.77,74.1,0,9203950725,rahul.patel149@college.edu,Vijayawada,Placed
+150,24ECE0150,Deepak Nair,Female,23,ECE,4,C,6.72,70.4,3,9601238919,deepak.nair150@college.edu,Nellore,Placed
+151,24CSE0151,Rohit Mishra,Male,18,CSE,1,C,8.22,66.7,0,9741580895,rohit.mishra151@college.edu,Nellore,Not Eligible Yet
+152,24CSE0152,Sneha Rao,Female,19,CSE,1,B,8.9,77.4,0,9712335251,sneha.rao152@college.edu,Kurnool,Not Eligible Yet
+153,24CIVIL0153,Nikhil Sharma,Female,21,CIVIL,3,A,8.9,74.5,3,9830572478,nikhil.sharma153@college.edu,Rajahmundry,Not Eligible Yet
+154,24CSE0154,Rohit Gupta,Female,20,CSE,2,A,8.87,71.8,0,9636954564,rohit.gupta154@college.edu,Vijayawada,Not Eligible Yet
+155,24ECE0155,Pranav Chowdhury,Female,20,ECE,1,B,6.57,95.4,0,9758276886,pranav.chowdhury155@college.edu,Bengaluru,Not Eligible Yet
+156,24CIVIL0156,Nisha Nair,Female,23,CIVIL,4,A,8.69,75.2,1,9495521185,nisha.nair156@college.edu,Bengaluru,Placed
+157,24AIDS0157,Aadhya Chowdhury,Male,21,AI&DS,3,D,8.74,84.8,0,9775410705,aadhya.chowdhury157@college.edu,Rajahmundry,Not Eligible Yet
+158,24AIDS0158,Keerthi Kumar,Male,21,AI&DS,2,D,6.72,80.0,0,9543412542,keerthi.kumar158@college.edu,Hyderabad,Not Eligible Yet
+159,24AIDS0159,Akash Rao,Male,23,AI&DS,4,B,8.13,98.9,0,9504612520,akash.rao159@college.edu,Bengaluru,Placed
+160,24CIVIL0160,Priya Das,Female,22,CIVIL,3,C,6.73,73.4,0,9341449138,priya.das160@college.edu,Chennai,Not Eligible Yet
+161,24AIDS0161,Varun Nair,Female,20,AI&DS,2,D,8.13,96.8,1,9409011489,varun.nair161@college.edu,Guntur,Not Eligible Yet
+162,24EEE0162,Chaitanya Iyer,Female,21,EEE,4,D,9.63,67.7,2,9804344630,chaitanya.iyer162@college.edu,Chennai,Eligible
+163,24CIVIL0163,Meghana Das,Male,19,CIVIL,2,B,8.34,85.0,0,9819228743,meghana.das163@college.edu,Kurnool,Not Eligible Yet
+164,24CSE0164,Arjun Joshi,Female,20,CSE,2,D,6.38,91.2,0,9690936560,arjun.joshi164@college.edu,Tirupati,Not Eligible Yet
+165,24MECH0165,Harsha Iyer,Female,22,MECH,4,A,8.45,95.9,0,9716470999,harsha.iyer165@college.edu,Hyderabad,Eligible
+166,24ECE0166,Aditya Mehta,Male,22,ECE,4,C,9.56,97.7,2,9140229006,aditya.mehta166@college.edu,Vijayawada,Not Eligible Yet
+167,24EEE0167,Swathi Chowdhury,Female,20,EEE,3,C,7.04,92.5,0,9885033297,swathi.chowdhury167@college.edu,Nellore,Not Eligible Yet
+168,24CSE0168,Pranav Iyer,Male,21,CSE,2,C,6.67,94.1,1,9987973565,pranav.iyer168@college.edu,Visakhapatnam,Not Eligible Yet
+169,24MECH0169,Arjun Naidu,Female,18,MECH,1,C,7.23,73.4,0,9352889019,arjun.naidu169@college.edu,Nellore,Not Eligible Yet
+170,24EEE0170,Aarav Das,Female,22,EEE,3,D,8.63,67.1,0,9429430802,aarav.das170@college.edu,Tirupati,Not Eligible Yet
+171,24AIDS0171,Bhavya Iyer,Male,21,AI&DS,3,C,6.83,69.5,0,9902874167,bhavya.iyer171@college.edu,Rajahmundry,Not Eligible Yet
+172,24AIDS0172,Zoya Chowdhury,Male,23,AI&DS,4,D,8.9,88.1,0,9945432844,zoya.chowdhury172@college.edu,Guntur,Not Interested
+173,24CIVIL0173,Bhavya Kumar,Male,20,CIVIL,1,A,8.18,70.1,0,9658712474,bhavya.kumar173@college.edu,Nellore,Not Eligible Yet
+174,24AIDS0174,Varun Sharma,Female,21,AI&DS,2,A,9.07,80.4,0,9590483627,varun.sharma174@college.edu,Rajahmundry,Not Eligible Yet
+175,24AIDS0175,Nisha Reddy,Female,22,AI&DS,4,C,9.1,90.4,0,9148629555,nisha.reddy175@college.edu,Visakhapatnam,Not Eligible Yet
+176,24CSE0176,Tejas Kumar,Female,19,CSE,1,C,6.68,69.6,0,9883068639,tejas.kumar176@college.edu,Visakhapatnam,Not Eligible Yet
+177,24MECH0177,Riya Mehta,Male,21,MECH,4,B,8.48,76.8,0,9676876906,riya.mehta177@college.edu,Visakhapatnam,Eligible
+178,24CSE0178,Nisha Mishra,Female,20,CSE,1,C,8.02,93.0,0,9471686188,nisha.mishra178@college.edu,Tirupati,Not Eligible Yet
+179,24AIDS0179,Bhavya Kumar,Female,21,AI&DS,2,A,8.34,96.8,1,9358413465,bhavya.kumar179@college.edu,Hyderabad,Not Eligible Yet
+180,24CIVIL0180,Aditya Mishra,Male,20,CIVIL,1,A,6.93,66.5,0,9679562681,aditya.mishra180@college.edu,Hyderabad,Not Eligible Yet
+181,24CIVIL0181,Nikhil Singh,Female,21,CIVIL,2,B,8.19,91.3,1,9354373770,nikhil.singh181@college.edu,Chennai,Not Eligible Yet
+182,24MECH0182,Nisha Das,Male,19,MECH,2,C,8.38,79.5,0,9469812603,nisha.das182@college.edu,Visakhapatnam,Not Eligible Yet
+183,24MECH0183,Chaitanya Iyer,Male,22,MECH,4,D,8.87,81.1,1,9422913264,chaitanya.iyer183@college.edu,Tirupati,Not Eligible Yet
+184,24MECH0184,Zoya Rao,Male,22,MECH,4,A,6.97,76.2,0,9582954920,zoya.rao184@college.edu,Bengaluru,Eligible
+185,24EEE0185,Riya Kumar,Male,18,EEE,1,B,9.06,85.0,0,9333019716,riya.kumar185@college.edu,Nellore,Not Eligible Yet
+186,24EEE0186,Aarav Verma,Male,20,EEE,3,B,8.84,90.6,2,9846923032,aarav.verma186@college.edu,Rajahmundry,Not Eligible Yet
+187,24ECE0187,Zoya Nair,Female,22,ECE,4,D,7.77,87.1,0,9486165467,zoya.nair187@college.edu,Kurnool,Placed
+188,24AIDS0188,Tejas Nair,Female,18,AI&DS,1,A,7.19,66.6,1,9895913682,tejas.nair188@college.edu,Tirupati,Not Eligible Yet
+189,24CIVIL0189,Sanjay Iyer,Male,20,CIVIL,3,C,7.25,77.9,1,9636120880,sanjay.iyer189@college.edu,Kurnool,Not Eligible Yet
+190,24MECH0190,Varun Mishra,Female,20,MECH,3,A,6.64,89.5,0,9682115008,varun.mishra190@college.edu,Vijayawada,Not Eligible Yet
+191,24AIDS0191,Akash Reddy,Male,19,AI&DS,1,D,9.2,72.9,1,9109815572,akash.reddy191@college.edu,Hyderabad,Not Eligible Yet
+192,24CSE0192,Tejas Chowdhury,Male,20,CSE,3,C,8.02,79.0,0,9875448533,tejas.chowdhury192@college.edu,Chennai,Not Eligible Yet
+193,24CIVIL0193,Sneha Naidu,Male,18,CIVIL,1,C,7.99,73.2,0,9371031968,sneha.naidu193@college.edu,Bengaluru,Not Eligible Yet
+194,24CSE0194,Rahul Mehta,Male,22,CSE,4,A,9.76,72.7,0,9186561759,rahul.mehta194@college.edu,Vijayawada,Placed
+195,24MECH0195,Zoya Chowdhury,Male,21,MECH,4,A,8.67,67.8,1,9792463878,zoya.chowdhury195@college.edu,Bengaluru,Not Eligible Yet
+196,24ECE0196,Tejas Das,Male,19,ECE,2,B,8.6,74.5,0,9806639422,tejas.das196@college.edu,Vijayawada,Not Eligible Yet
+197,24CSE0197,Ishita Rao,Female,22,CSE,3,C,9.53,75.2,0,9708485104,ishita.rao197@college.edu,Visakhapatnam,Not Eligible Yet
+198,24AIDS0198,Charan Sharma,Female,23,AI&DS,4,D,6.2,79.9,1,9465708674,charan.sharma198@college.edu,Rajahmundry,Not Interested
+199,24AIDS0199,Meghana Mishra,Male,19,AI&DS,1,D,7.35,97.0,0,9829816799,meghana.mishra199@college.edu,Rajahmundry,Not Eligible Yet
+200,24CIVIL0200,Nikhil Singh,Male,20,CIVIL,1,D,6.31,70.2,1,9780645895,nikhil.singh200@college.edu,Tirupati,Not Eligible Yet
+201,24EEE0201,Arjun Sharma,Female,20,EEE,3,D,7.69,90.9,0,9193734690,arjun.sharma201@college.edu,Tirupati,Not Eligible Yet
+202,24CIVIL0202,Zoya Joshi,Male,21,CIVIL,4,D,6.34,83.8,0,9942284665,zoya.joshi202@college.edu,Bengaluru,Not Eligible Yet
+203,24MECH0203,Riya Sharma,Male,22,MECH,3,C,8.17,70.8,0,9249078381,riya.sharma203@college.edu,Chennai,Not Eligible Yet
+204,24MECH0204,Chaitanya Sharma,Female,20,MECH,3,B,7.05,75.2,1,9487754927,chaitanya.sharma204@college.edu,Chennai,Not Eligible Yet
+205,24CIVIL0205,Harsha Mishra,Male,21,CIVIL,4,C,7.16,97.3,0,9765926290,harsha.mishra205@college.edu,Visakhapatnam,Placed
+206,24MECH0206,Charan Iyer,Male,21,MECH,3,D,7.82,71.0,0,9442671456,charan.iyer206@college.edu,Chennai,Not Eligible Yet
+207,24EEE0207,Riya Das,Female,20,EEE,2,A,6.43,84.2,0,9685864775,riya.das207@college.edu,Tirupati,Not Eligible Yet
+208,24AIDS0208,Ishita Mishra,Male,22,AI&DS,4,C,9.11,92.1,0,9636122747,ishita.mishra208@college.edu,Tirupati,Eligible
+209,24AIDS0209,Chaitanya Joshi,Male,21,AI&DS,3,D,7.71,85.3,0,9673772626,chaitanya.joshi209@college.edu,Kurnool,Not Eligible Yet
+210,24EEE0210,Yash Sharma,Male,18,EEE,1,D,8.5,77.1,0,9147563208,yash.sharma210@college.edu,Rajahmundry,Not Eligible Yet
+211,24MECH0211,Arjun Reddy,Female,20,MECH,3,B,6.84,90.4,0,9838374035,arjun.reddy211@college.edu,Rajahmundry,Not Eligible Yet
+212,24EEE0212,Rohit Mishra,Male,23,EEE,4,A,7.31,65.8,0,9546650213,rohit.mishra212@college.edu,Guntur,Eligible
+213,24EEE0213,Pranav Mishra,Female,20,EEE,3,A,7.32,68.3,1,9585811477,pranav.mishra213@college.edu,Bengaluru,Not Eligible Yet
+214,24CSE0214,Bhavya Reddy,Male,21,CSE,3,B,8.57,70.6,3,9361899532,bhavya.reddy214@college.edu,Kurnool,Not Eligible Yet
+215,24EEE0215,Zoya Joshi,Male,20,EEE,2,D,9.03,86.4,0,9805778992,zoya.joshi215@college.edu,Visakhapatnam,Not Eligible Yet
+216,24AIDS0216,Harsha Mishra,Female,20,AI&DS,1,A,7.48,89.0,0,9907803348,harsha.mishra216@college.edu,Guntur,Not Eligible Yet
+217,24EEE0217,Pavan Verma,Male,20,EEE,2,D,7.0,94.3,0,9786237617,pavan.verma217@college.edu,Bengaluru,Not Eligible Yet
+218,24CIVIL0218,Bhavya Gupta,Female,22,CIVIL,4,A,8.35,92.7,1,9419378952,bhavya.gupta218@college.edu,Rajahmundry,Eligible
+219,24CSE0219,Keerthi Iyer,Male,20,CSE,3,D,7.42,69.8,0,9740407346,keerthi.iyer219@college.edu,Tirupati,Not Eligible Yet
+220,24ECE0220,Varun Naidu,Male,23,ECE,4,A,7.86,69.8,0,9584258607,varun.naidu220@college.edu,Rajahmundry,Not Interested
+221,24MECH0221,Charan Verma,Female,19,MECH,1,B,7.55,81.7,1,9576582183,charan.verma221@college.edu,Nellore,Not Eligible Yet
+222,24CIVIL0222,Aadhya Singh,Male,19,CIVIL,1,D,7.04,83.3,0,9591045102,aadhya.singh222@college.edu,Rajahmundry,Not Eligible Yet
+223,24CIVIL0223,Bhavya Das,Female,20,CIVIL,1,B,8.06,90.7,1,9573913756,bhavya.das223@college.edu,Kurnool,Not Eligible Yet
+224,24CSE0224,Keerthi Iyer,Female,21,CSE,4,B,7.0,94.3,0,9226042285,keerthi.iyer224@college.edu,Hyderabad,Not Interested
+225,24ECE0225,Charan Verma,Male,21,ECE,4,C,8.17,83.1,0,9280793819,charan.verma225@college.edu,Bengaluru,Not Interested
+226,24CIVIL0226,Arjun Rao,Male,21,CIVIL,3,B,9.77,94.5,0,9242475723,arjun.rao226@college.edu,Hyderabad,Not Eligible Yet
+227,24ECE0227,Rohit Chowdhury,Female,20,ECE,3,D,8.39,77.8,0,9953193777,rohit.chowdhury227@college.edu,Guntur,Not Eligible Yet
+228,24AIDS0228,Rahul Mishra,Female,21,AI&DS,3,C,8.21,94.5,1,9200010094,rahul.mishra228@college.edu,Nellore,Not Eligible Yet
+229,24CIVIL0229,Rohit Verma,Male,19,CIVIL,1,B,7.88,76.0,0,9687670209,rohit.verma229@college.edu,Rajahmundry,Not Eligible Yet
+230,24EEE0230,Akash Kumar,Female,21,EEE,4,D,6.06,96.6,0,9590182620,akash.kumar230@college.edu,Vijayawada,Eligible
+231,24AIDS0231,Nisha Naidu,Male,20,AI&DS,2,A,8.49,73.5,0,9796763109,nisha.naidu231@college.edu,Tirupati,Not Eligible Yet
+232,24AIDS0232,Nisha Singh,Male,22,AI&DS,4,B,8.67,65.0,0,9242485313,nisha.singh232@college.edu,Rajahmundry,Placed
+233,24CSE0233,Pranav Patel,Male,19,CSE,1,A,7.82,72.8,0,9965389567,pranav.patel233@college.edu,Guntur,Not Eligible Yet
+234,24EEE0234,Nisha Rao,Male,21,EEE,3,B,8.44,88.0,0,9704829337,nisha.rao234@college.edu,Vijayawada,Not Eligible Yet
+235,24EEE0235,Ishita Rao,Female,22,EEE,4,D,9.27,67.9,0,9907932366,ishita.rao235@college.edu,Guntur,Not Interested
+236,24EEE0236,Charan Singh,Male,22,EEE,4,C,6.94,85.4,1,9405931388,charan.singh236@college.edu,Vijayawada,Eligible
+237,24AIDS0237,Rohit Iyer,Male,21,AI&DS,2,B,8.98,92.0,0,9514341484,rohit.iyer237@college.edu,Guntur,Not Eligible Yet
+238,24AIDS0238,Ananya Reddy,Female,22,AI&DS,4,B,6.5,94.3,0,9492358645,ananya.reddy238@college.edu,Kurnool,Placed
+239,24CSE0239,Ananya Reddy,Male,19,CSE,1,D,6.15,67.1,1,9643968992,ananya.reddy239@college.edu,Chennai,Not Eligible Yet
+240,24AIDS0240,Rohit Sharma,Male,23,AI&DS,4,C,7.05,75.5,0,9318181642,rohit.sharma240@college.edu,Tirupati,Placed
+241,24EEE0241,Sneha Singh,Male,18,EEE,1,C,6.33,79.8,0,9753728820,sneha.singh241@college.edu,Vijayawada,Not Eligible Yet
+242,24CSE0242,Aarav Rao,Male,21,CSE,2,B,6.62,97.4,0,9940725996,aarav.rao242@college.edu,Chennai,Not Eligible Yet
+243,24ECE0243,Meghana Patel,Female,20,ECE,3,A,9.07,74.2,0,9864851260,meghana.patel243@college.edu,Rajahmundry,Not Eligible Yet
+244,24MECH0244,Vamsi Gupta,Female,21,MECH,4,A,9.27,70.7,0,9930355646,vamsi.gupta244@college.edu,Guntur,Eligible
+245,24CSE0245,Aarav Singh,Female,18,CSE,1,D,7.38,96.3,0,9137971349,aarav.singh245@college.edu,Kurnool,Not Eligible Yet
+246,24EEE0246,Keerthi Joshi,Female,21,EEE,2,B,7.03,67.6,0,9639062353,keerthi.joshi246@college.edu,Vijayawada,Not Eligible Yet
+247,24CIVIL0247,Aditya Mehta,Female,19,CIVIL,2,D,9.29,91.3,0,9192755745,aditya.mehta247@college.edu,Kurnool,Not Eligible Yet
+248,24EEE0248,Harsha Iyer,Female,20,EEE,1,B,8.81,73.2,0,9629741991,harsha.iyer248@college.edu,Hyderabad,Not Eligible Yet
+249,24CSE0249,Sanjay Reddy,Female,19,CSE,2,D,8.42,88.6,0,9459722166,sanjay.reddy249@college.edu,Vijayawada,Not Eligible Yet
+250,24CSE0250,Ishita Singh,Female,21,CSE,3,A,9.65,98.1,0,9400460098,ishita.singh250@college.edu,Guntur,Not Eligible Yet
+251,24CIVIL0251,Sanjay Gupta,Male,20,CIVIL,2,A,8.21,82.2,0,9523431477,sanjay.gupta251@college.edu,Guntur,Not Eligible Yet
+252,24AIDS0252,Charan Singh,Female,22,AI&DS,4,C,9.23,96.5,0,9993245640,charan.singh252@college.edu,Bengaluru,Placed
+253,24ECE0253,Ananya Verma,Male,20,ECE,3,C,6.59,70.6,0,9536489528,ananya.verma253@college.edu,Guntur,Not Eligible Yet
+254,24MECH0254,Nisha Mishra,Male,20,MECH,2,A,6.34,92.5,0,9856671023,nisha.mishra254@college.edu,Rajahmundry,Not Eligible Yet
+255,24EEE0255,Chaitanya Sharma,Male,21,EEE,2,B,9.68,78.5,0,9420877774,chaitanya.sharma255@college.edu,Chennai,Not Eligible Yet
+256,24MECH0256,Srinivas Singh,Female,18,MECH,1,B,6.39,92.0,0,9166216779,srinivas.singh256@college.edu,Hyderabad,Not Eligible Yet
+257,24MECH0257,Rahul Sharma,Female,21,MECH,2,B,9.49,67.5,3,9312332805,rahul.sharma257@college.edu,Nellore,Not Eligible Yet
+258,24EEE0258,Bhavya Kumar,Male,19,EEE,1,A,6.64,84.5,1,9524126612,bhavya.kumar258@college.edu,Nellore,Not Eligible Yet
+259,24AIDS0259,Sneha Naidu,Male,22,AI&DS,4,B,9.45,74.3,0,9259591761,sneha.naidu259@college.edu,Vijayawada,Not Interested
+260,24MECH0260,Zoya Chowdhury,Male,21,MECH,4,B,7.06,69.7,0,9955984774,zoya.chowdhury260@college.edu,Kurnool,Not Eligible Yet
+261,24AIDS0261,Priya Chowdhury,Female,23,AI&DS,4,A,7.31,84.2,0,9390378111,priya.chowdhury261@college.edu,Tirupati,Not Interested
+262,24CSE0262,Meghana Kumar,Female,20,CSE,2,B,8.91,99.0,2,9207518427,meghana.kumar262@college.edu,Hyderabad,Not Eligible Yet
+263,24CIVIL0263,Akash Singh,Female,22,CIVIL,3,C,7.35,93.5,1,9289086333,akash.singh263@college.edu,Hyderabad,Not Eligible Yet
+264,24CIVIL0264,Aadhya Gupta,Male,22,CIVIL,3,C,8.14,71.4,3,9628524423,aadhya.gupta264@college.edu,Kurnool,Not Eligible Yet
+265,24MECH0265,Aditya Sharma,Male,19,MECH,2,B,8.29,65.7,0,9456196659,aditya.sharma265@college.edu,Rajahmundry,Not Eligible Yet
+266,24EEE0266,Diya Nair,Male,19,EEE,2,C,6.56,89.0,0,9219100072,diya.nair266@college.edu,Kurnool,Not Eligible Yet
+267,24EEE0267,Rohit Patel,Female,19,EEE,1,C,7.23,98.2,1,9569083854,rohit.patel267@college.edu,Nellore,Not Eligible Yet
+268,24AIDS0268,Zoya Gupta,Male,19,AI&DS,2,D,7.44,90.0,0,9290812817,zoya.gupta268@college.edu,Vijayawada,Not Eligible Yet
+269,24ECE0269,Pavan Singh,Male,20,ECE,1,C,9.56,69.8,1,9355546183,pavan.singh269@college.edu,Bengaluru,Not Eligible Yet
+270,24AIDS0270,Anjali Nair,Male,20,AI&DS,2,A,7.01,73.5,0,9375584366,anjali.nair270@college.edu,Guntur,Not Eligible Yet
+271,24MECH0271,Srinivas Joshi,Female,18,MECH,1,B,7.87,77.9,0,9208908082,srinivas.joshi271@college.edu,Nellore,Not Eligible Yet
+272,24MECH0272,Ananya Kumar,Male,20,MECH,2,B,7.21,97.4,0,9282649071,ananya.kumar272@college.edu,Visakhapatnam,Not Eligible Yet
+273,24CIVIL0273,Anjali Nair,Female,20,CIVIL,1,B,8.68,79.7,0,9752102334,anjali.nair273@college.edu,Visakhapatnam,Not Eligible Yet
+274,24CSE0274,Pranav Verma,Female,18,CSE,1,C,8.65,89.5,1,9384825874,pranav.verma274@college.edu,Chennai,Not Eligible Yet
+275,24CSE0275,Akash Mehta,Female,21,CSE,2,D,6.58,77.3,0,9416270056,akash.mehta275@college.edu,Rajahmundry,Not Eligible Yet
+276,24CSE0276,Aadhya Verma,Female,19,CSE,2,D,9.71,81.1,0,9942754807,aadhya.verma276@college.edu,Visakhapatnam,Not Eligible Yet
+277,24AIDS0277,Manoj Sharma,Female,23,AI&DS,4,C,6.7,95.1,0,9578647558,manoj.sharma277@college.edu,Vijayawada,Placed
+278,24EEE0278,Karthik Das,Male,23,EEE,4,D,6.57,88.7,0,9817411121,karthik.das278@college.edu,Bengaluru,Eligible
+279,24MECH0279,Vishnu Joshi,Female,20,MECH,1,B,8.18,73.0,0,9523917958,vishnu.joshi279@college.edu,Vijayawada,Not Eligible Yet
+280,24MECH0280,Diya Naidu,Male,18,MECH,1,B,6.48,79.4,3,9567499938,diya.naidu280@college.edu,Hyderabad,Not Eligible Yet
+281,24EEE0281,Ananya Sharma,Female,21,EEE,3,D,8.1,94.1,0,9113275526,ananya.sharma281@college.edu,Rajahmundry,Not Eligible Yet
+282,24MECH0282,Chaitanya Rao,Male,20,MECH,1,C,9.51,84.1,0,9407189861,chaitanya.rao282@college.edu,Kurnool,Not Eligible Yet
+283,24EEE0283,Riya Chowdhury,Female,23,EEE,4,A,6.14,74.4,0,9753538609,riya.chowdhury283@college.edu,Visakhapatnam,Placed
+284,24AIDS0284,Keerthi Kumar,Female,22,AI&DS,3,C,9.5,95.5,0,9977661452,keerthi.kumar284@college.edu,Chennai,Not Eligible Yet
+285,24MECH0285,Arjun Singh,Female,20,MECH,3,A,9.7,80.1,1,9389287503,arjun.singh285@college.edu,Visakhapatnam,Not Eligible Yet
+286,24MECH0286,Ishita Joshi,Female,21,MECH,2,A,8.89,94.5,1,9653266624,ishita.joshi286@college.edu,Tirupati,Not Eligible Yet
+287,24AIDS0287,Vamsi Mehta,Male,20,AI&DS,3,A,6.66,94.8,0,9161877074,vamsi.mehta287@college.edu,Hyderabad,Not Eligible Yet
+288,24CSE0288,Rahul Verma,Female,22,CSE,4,B,9.13,82.2,0,9233007467,rahul.verma288@college.edu,Vijayawada,Not Interested
+289,24CIVIL0289,Srinivas Naidu,Female,22,CIVIL,4,C,7.31,93.5,0,9992140083,srinivas.naidu289@college.edu,Guntur,Not Eligible Yet
+290,24CSE0290,Deepak Verma,Male,21,CSE,4,D,8.58,74.1,0,9121531054,deepak.verma290@college.edu,Vijayawada,Eligible
+291,24CIVIL0291,Aarav Singh,Female,20,CIVIL,2,D,8.71,89.1,0,9504237434,aarav.singh291@college.edu,Bengaluru,Not Eligible Yet
+292,24ECE0292,Swathi Iyer,Female,22,ECE,3,C,8.22,65.2,3,9501826151,swathi.iyer292@college.edu,Kurnool,Not Eligible Yet
+293,24AIDS0293,Arjun Chowdhury,Female,20,AI&DS,3,B,9.76,86.8,1,9380404354,arjun.chowdhury293@college.edu,Chennai,Not Eligible Yet
+294,24CIVIL0294,Keerthi Kumar,Female,21,CIVIL,2,C,8.51,88.1,1,9803731001,keerthi.kumar294@college.edu,Nellore,Not Eligible Yet
+295,24MECH0295,Rohit Mehta,Male,22,MECH,3,D,8.22,98.8,1,9468472812,rohit.mehta295@college.edu,Hyderabad,Not Eligible Yet
+296,24CIVIL0296,Nisha Naidu,Male,22,CIVIL,3,B,7.12,81.0,1,9878663220,nisha.naidu296@college.edu,Kurnool,Not Eligible Yet
+297,24AIDS0297,Anjali Singh,Male,21,AI&DS,3,C,8.83,75.4,1,9455749066,anjali.singh297@college.edu,Bengaluru,Not Eligible Yet
+298,24MECH0298,Bhavya Chowdhury,Male,20,MECH,3,C,7.79,71.6,0,9830893658,bhavya.chowdhury298@college.edu,Visakhapatnam,Not Eligible Yet
+299,24CSE0299,Chaitanya Rao,Female,21,CSE,4,C,7.55,84.4,2,9591313587,chaitanya.rao299@college.edu,Tirupati,Eligible
+300,24MECH0300,Pranav Naidu,Male,19,MECH,1,B,6.02,74.3,1,9281039053,pranav.naidu300@college.edu,Rajahmundry,Not Eligible Yet
+301,24CSE0301,Charan Joshi,Female,23,CSE,4,B,7.53,97.8,0,9140507249,charan.joshi301@college.edu,Kurnool,Not Interested
+302,24EEE0302,Vishnu Verma,Male,18,EEE,1,B,8.38,73.5,0,9469742752,vishnu.verma302@college.edu,Chennai,Not Eligible Yet
+303,24MECH0303,Vamsi Iyer,Male,18,MECH,1,C,9.13,75.1,0,9881503560,vamsi.iyer303@college.edu,Kurnool,Not Eligible Yet
+304,24AIDS0304,Charan Nair,Female,22,AI&DS,4,A,8.85,70.6,2,9971887294,charan.nair304@college.edu,Visakhapatnam,Eligible
+305,24AIDS0305,Charan Verma,Male,21,AI&DS,2,D,8.24,70.7,0,9798512415,charan.verma305@college.edu,Vijayawada,Not Eligible Yet
+306,24CIVIL0306,Akash Kumar,Male,22,CIVIL,3,D,8.48,65.7,0,9547509357,akash.kumar306@college.edu,Nellore,Not Eligible Yet
+307,24CIVIL0307,Manoj Chowdhury,Male,20,CIVIL,1,C,6.78,88.3,0,9551907286,manoj.chowdhury307@college.edu,Guntur,Not Eligible Yet
+308,24MECH0308,Arjun Patel,Male,20,MECH,2,B,8.98,81.9,0,9935327024,arjun.patel308@college.edu,Chennai,Not Eligible Yet
+309,24AIDS0309,Sanjay Iyer,Male,20,AI&DS,3,B,8.08,96.0,0,9616108982,sanjay.iyer309@college.edu,Bengaluru,Not Eligible Yet
+310,24CSE0310,Anjali Patel,Female,20,CSE,1,C,6.57,68.1,0,9876920515,anjali.patel310@college.edu,Guntur,Not Eligible Yet
+311,24MECH0311,Nikhil Das,Male,20,MECH,2,C,6.38,70.9,0,9411994135,nikhil.das311@college.edu,Bengaluru,Not Eligible Yet
+312,24AIDS0312,Bhavya Patel,Male,21,AI&DS,4,C,9.24,87.6,0,9483892122,bhavya.patel312@college.edu,Nellore,Not Eligible Yet
+313,24EEE0313,Diya Patel,Female,21,EEE,3,B,9.66,74.2,0,9613511668,diya.patel313@college.edu,Visakhapatnam,Not Eligible Yet
+314,24ECE0314,Akash Naidu,Female,18,ECE,1,D,9.46,81.4,0,9570473733,akash.naidu314@college.edu,Tirupati,Not Eligible Yet
+315,24CIVIL0315,Aadhya Rao,Female,21,CIVIL,3,A,6.43,79.0,0,9380904676,aadhya.rao315@college.edu,Bengaluru,Not Eligible Yet
+316,24AIDS0316,Pranav Patel,Male,20,AI&DS,2,A,7.83,87.6,0,9259616499,pranav.patel316@college.edu,Kurnool,Not Eligible Yet
+317,24AIDS0317,Deepak Chowdhury,Male,19,AI&DS,1,B,6.28,81.7,0,9398668947,deepak.chowdhury317@college.edu,Vijayawada,Not Eligible Yet
+318,24MECH0318,Keerthi Sharma,Female,22,MECH,4,A,9.04,80.2,1,9580035742,keerthi.sharma318@college.edu,Bengaluru,Placed
+319,24CSE0319,Rohit Joshi,Male,18,CSE,1,B,9.14,91.9,2,9784551346,rohit.joshi319@college.edu,Chennai,Not Eligible Yet
+320,24EEE0320,Rahul Kumar,Female,21,EEE,4,D,7.26,91.1,0,9869505738,rahul.kumar320@college.edu,Bengaluru,Not Eligible Yet
+321,24AIDS0321,Karthik Reddy,Female,19,AI&DS,1,A,9.15,97.8,0,9660477218,karthik.reddy321@college.edu,Bengaluru,Not Eligible Yet
+322,24ECE0322,Varun Rao,Female,20,ECE,1,D,6.41,85.8,0,9521869399,varun.rao322@college.edu,Hyderabad,Not Eligible Yet
+323,24AIDS0323,Pranav Patel,Male,20,AI&DS,2,D,9.52,93.5,0,9929084565,pranav.patel323@college.edu,Nellore,Not Eligible Yet
+324,24MECH0324,Aarav Kumar,Female,21,MECH,2,B,9.19,81.4,0,9290269669,aarav.kumar324@college.edu,Rajahmundry,Not Eligible Yet
+325,24CSE0325,Riya Nair,Female,21,CSE,2,D,7.59,85.7,0,9366544373,riya.nair325@college.edu,Chennai,Not Eligible Yet
+326,24EEE0326,Srinivas Rao,Female,20,EEE,3,C,8.29,95.1,0,9853223780,srinivas.rao326@college.edu,Kurnool,Not Eligible Yet
+327,24ECE0327,Ishita Iyer,Female,21,ECE,2,C,9.5,69.5,1,9290924932,ishita.iyer327@college.edu,Kurnool,Not Eligible Yet
+328,24EEE0328,Zoya Chowdhury,Female,20,EEE,1,A,8.56,95.4,0,9553533911,zoya.chowdhury328@college.edu,Vijayawada,Not Eligible Yet
+329,24MECH0329,Chaitanya Kumar,Male,20,MECH,1,B,6.76,90.5,0,9407751103,chaitanya.kumar329@college.edu,Chennai,Not Eligible Yet
+330,24AIDS0330,Nikhil Verma,Male,20,AI&DS,1,B,7.36,80.4,0,9825340529,nikhil.verma330@college.edu,Kurnool,Not Eligible Yet
+331,24ECE0331,Vamsi Iyer,Male,23,ECE,4,A,9.52,78.2,2,9835672883,vamsi.iyer331@college.edu,Bengaluru,Not Eligible Yet
+332,24ECE0332,Srinivas Singh,Female,22,ECE,3,C,8.87,83.6,0,9933381221,srinivas.singh332@college.edu,Hyderabad,Not Eligible Yet
+333,24ECE0333,Ananya Naidu,Male,21,ECE,4,C,7.43,79.6,0,9239657875,ananya.naidu333@college.edu,Tirupati,Not Eligible Yet
+334,24MECH0334,Chaitanya Kumar,Female,20,MECH,3,D,8.27,91.3,0,9810699207,chaitanya.kumar334@college.edu,Chennai,Not Eligible Yet
+335,24CSE0335,Pavan Singh,Male,20,CSE,3,C,8.99,70.4,0,9533165776,pavan.singh335@college.edu,Guntur,Not Eligible Yet
+336,24ECE0336,Pranav Nair,Female,20,ECE,2,A,6.83,90.6,0,9702728525,pranav.nair336@college.edu,Vijayawada,Not Eligible Yet
+337,24MECH0337,Keerthi Singh,Female,20,MECH,3,C,7.45,92.1,0,9375512010,keerthi.singh337@college.edu,Kurnool,Not Eligible Yet
+338,24CIVIL0338,Rahul Mishra,Male,19,CIVIL,1,B,7.13,87.2,0,9188417749,rahul.mishra338@college.edu,Guntur,Not Eligible Yet
+339,24AIDS0339,Ananya Verma,Male,20,AI&DS,1,A,9.29,79.4,0,9677409188,ananya.verma339@college.edu,Visakhapatnam,Not Eligible Yet
+340,24CSE0340,Swathi Nair,Male,19,CSE,2,B,6.28,71.1,0,9175636616,swathi.nair340@college.edu,Rajahmundry,Not Eligible Yet
+341,24MECH0341,Riya Mishra,Female,22,MECH,3,A,7.65,65.6,0,9674274037,riya.mishra341@college.edu,Vijayawada,Not Eligible Yet
+342,24AIDS0342,Ananya Gupta,Male,20,AI&DS,1,D,7.1,88.3,0,9402277050,ananya.gupta342@college.edu,Nellore,Not Eligible Yet
+343,24AIDS0343,Aadhya Chowdhury,Male,21,AI&DS,4,B,6.52,78.3,1,9685967190,aadhya.chowdhury343@college.edu,Chennai,Not Interested
+344,24CSE0344,Zoya Rao,Male,20,CSE,3,B,6.02,85.3,0,9191404267,zoya.rao344@college.edu,Chennai,Not Eligible Yet
+345,24ECE0345,Sanjay Rao,Male,20,ECE,3,A,6.84,93.4,0,9294731649,sanjay.rao345@college.edu,Rajahmundry,Not Eligible Yet
+346,24AIDS0346,Zoya Sharma,Male,22,AI&DS,4,B,6.95,71.7,0,9455248480,zoya.sharma346@college.edu,Bengaluru,Eligible
+347,24EEE0347,Ananya Verma,Female,19,EEE,1,C,7.71,86.0,0,9727247693,ananya.verma347@college.edu,Tirupati,Not Eligible Yet
+348,24MECH0348,Deepak Reddy,Male,21,MECH,3,B,8.99,89.2,0,9397082704,deepak.reddy348@college.edu,Bengaluru,Not Eligible Yet
+349,24MECH0349,Swathi Mishra,Female,21,MECH,3,B,7.85,68.7,0,9188018583,swathi.mishra349@college.edu,Chennai,Not Eligible Yet
+350,24EEE0350,Ananya Sharma,Male,19,EEE,2,C,9.09,84.7,1,9328450041,ananya.sharma350@college.edu,Vijayawada,Not Eligible Yet
+351,24AIDS0351,Chaitanya Gupta,Male,22,AI&DS,4,A,9.39,85.0,1,9243753906,chaitanya.gupta351@college.edu,Nellore,Placed
+352,24CIVIL0352,Aarav Singh,Male,22,CIVIL,3,B,8.88,69.8,0,9708121468,aarav.singh352@college.edu,Rajahmundry,Not Eligible Yet
+353,24EEE0353,Aditya Singh,Male,22,EEE,4,C,6.24,77.6,0,9322021972,aditya.singh353@college.edu,Kurnool,Placed
+354,24MECH0354,Aditya Kumar,Female,23,MECH,4,B,6.39,97.9,0,9393663355,aditya.kumar354@college.edu,Chennai,Placed
+355,24EEE0355,Ananya Das,Male,22,EEE,4,A,7.96,77.0,1,9622763616,ananya.das355@college.edu,Nellore,Eligible
+356,24ECE0356,Karthik Sharma,Female,23,ECE,4,B,6.8,71.4,0,9870197919,karthik.sharma356@college.edu,Guntur,Placed
+357,24AIDS0357,Bhavya Chowdhury,Female,22,AI&DS,3,B,7.82,85.1,0,9541199665,bhavya.chowdhury357@college.edu,Vijayawada,Not Eligible Yet
+358,24ECE0358,Deepak Rao,Male,20,ECE,1,D,9.39,70.0,0,9293313837,deepak.rao358@college.edu,Kurnool,Not Eligible Yet
+359,24AIDS0359,Nikhil Sharma,Female,18,AI&DS,1,B,8.3,81.0,0,9335540097,nikhil.sharma359@college.edu,Visakhapatnam,Not Eligible Yet
+360,24CIVIL0360,Vamsi Das,Female,19,CIVIL,2,B,9.5,85.3,0,9506101350,vamsi.das360@college.edu,Visakhapatnam,Not Eligible Yet
+361,24CSE0361,Harsha Joshi,Male,18,CSE,1,A,6.67,95.7,0,9941672107,harsha.joshi361@college.edu,Kurnool,Not Eligible Yet
+362,24MECH0362,Charan Reddy,Female,20,MECH,1,B,7.98,77.6,0,9668886152,charan.reddy362@college.edu,Visakhapatnam,Not Eligible Yet
+363,24MECH0363,Priya Patel,Male,22,MECH,4,D,6.97,91.0,2,9189998443,priya.patel363@college.edu,Chennai,Not Interested
+364,24CSE0364,Aarav Patel,Male,21,CSE,2,A,7.43,72.0,1,9538994061,aarav.patel364@college.edu,Bengaluru,Not Eligible Yet
+365,24MECH0365,Manoj Das,Female,21,MECH,2,D,8.15,85.8,3,9526763137,manoj.das365@college.edu,Hyderabad,Not Eligible Yet
+366,24ECE0366,Rahul Chowdhury,Female,22,ECE,4,B,8.2,91.3,0,9248249943,rahul.chowdhury366@college.edu,Guntur,Placed
+367,24CSE0367,Ishita Mehta,Male,20,CSE,2,D,6.61,97.8,0,9197805621,ishita.mehta367@college.edu,Tirupati,Not Eligible Yet
+368,24CSE0368,Ananya Das,Female,21,CSE,4,C,6.3,66.3,0,9530189140,ananya.das368@college.edu,Rajahmundry,Not Eligible Yet
+369,24AIDS0369,Varun Mishra,Male,19,AI&DS,2,B,9.23,96.6,0,9309107461,varun.mishra369@college.edu,Vijayawada,Not Eligible Yet
+370,24AIDS0370,Aditya Gupta,Male,19,AI&DS,2,D,9.71,68.0,0,9528888661,aditya.gupta370@college.edu,Bengaluru,Not Eligible Yet
+371,24CIVIL0371,Harsha Reddy,Male,23,CIVIL,4,C,9.49,83.7,1,9700343937,harsha.reddy371@college.edu,Rajahmundry,Not Interested
+372,24ECE0372,Harsha Mishra,Male,21,ECE,3,C,6.99,78.8,0,9177723844,harsha.mishra372@college.edu,Kurnool,Not Eligible Yet
+373,24CSE0373,Vamsi Das,Female,22,CSE,3,C,8.64,97.8,0,9926745981,vamsi.das373@college.edu,Hyderabad,Not Eligible Yet
+374,24AIDS0374,Swathi Reddy,Male,22,AI&DS,4,C,6.98,78.0,1,9336633719,swathi.reddy374@college.edu,Hyderabad,Placed
+375,24CIVIL0375,Yash Reddy,Female,22,CIVIL,3,A,6.94,68.2,0,9981622236,yash.reddy375@college.edu,Bengaluru,Not Eligible Yet
+376,24MECH0376,Pavan Gupta,Female,19,MECH,2,B,6.69,90.4,2,9304190795,pavan.gupta376@college.edu,Nellore,Not Eligible Yet
+377,24AIDS0377,Keerthi Das,Male,19,AI&DS,2,A,6.77,73.5,0,9267498965,keerthi.das377@college.edu,Guntur,Not Eligible Yet
+378,24AIDS0378,Varun Reddy,Male,20,AI&DS,1,D,9.22,77.6,0,9716885481,varun.reddy378@college.edu,Chennai,Not Eligible Yet
+379,24CIVIL0379,Meghana Mehta,Male,19,CIVIL,2,C,6.21,92.2,0,9680645164,meghana.mehta379@college.edu,Vijayawada,Not Eligible Yet
+380,24AIDS0380,Diya Mishra,Female,21,AI&DS,4,A,7.2,65.3,0,9507407714,diya.mishra380@college.edu,Rajahmundry,Not Interested
+381,24CIVIL0381,Manoj Naidu,Female,22,CIVIL,3,D,6.9,81.0,0,9492908067,manoj.naidu381@college.edu,Tirupati,Not Eligible Yet
+382,24ECE0382,Sanjay Gupta,Female,22,ECE,4,A,7.06,71.1,0,9718360105,sanjay.gupta382@college.edu,Hyderabad,Not Interested
+383,24CIVIL0383,Sneha Mehta,Male,19,CIVIL,2,D,9.04,90.1,0,9110460711,sneha.mehta383@college.edu,Tirupati,Not Eligible Yet
+384,24ECE0384,Vishnu Nair,Female,22,ECE,4,A,6.95,94.2,0,9206273380,vishnu.nair384@college.edu,Tirupati,Eligible
+385,24MECH0385,Arjun Mishra,Female,22,MECH,3,C,6.99,77.3,0,9969747935,arjun.mishra385@college.edu,Chennai,Not Eligible Yet
+386,24MECH0386,Bhavya Gupta,Male,20,MECH,1,C,8.19,87.1,0,9937850514,bhavya.gupta386@college.edu,Chennai,Not Eligible Yet
+387,24AIDS0387,Vamsi Chowdhury,Female,22,AI&DS,3,B,9.38,78.0,0,9778295798,vamsi.chowdhury387@college.edu,Tirupati,Not Eligible Yet
+388,24MECH0388,Rohit Sharma,Male,20,MECH,3,D,7.31,75.7,0,9862822145,rohit.sharma388@college.edu,Chennai,Not Eligible Yet
+389,24MECH0389,Rahul Mishra,Male,21,MECH,3,A,6.7,65.8,1,9810841299,rahul.mishra389@college.edu,Chennai,Not Eligible Yet
+390,24ECE0390,Rohit Patel,Male,19,ECE,2,A,9.56,81.1,0,9927783767,rohit.patel390@college.edu,Visakhapatnam,Not Eligible Yet
+391,24EEE0391,Chaitanya Sharma,Female,20,EEE,1,B,7.18,73.4,0,9772678518,chaitanya.sharma391@college.edu,Tirupati,Not Eligible Yet
+392,24CSE0392,Aditya Gupta,Female,20,CSE,2,B,7.78,94.6,2,9688996003,aditya.gupta392@college.edu,Nellore,Not Eligible Yet
+393,24CIVIL0393,Swathi Joshi,Female,21,CIVIL,2,C,9.45,81.4,0,9196157900,swathi.joshi393@college.edu,Nellore,Not Eligible Yet
+394,24MECH0394,Manoj Rao,Male,21,MECH,3,D,6.0,92.7,1,9469243620,manoj.rao394@college.edu,Chennai,Not Eligible Yet
+395,24AIDS0395,Varun Chowdhury,Male,19,AI&DS,1,C,8.91,92.1,0,9955522471,varun.chowdhury395@college.edu,Vijayawada,Not Eligible Yet
+396,24MECH0396,Zoya Joshi,Male,20,MECH,2,C,6.62,90.1,0,9506258874,zoya.joshi396@college.edu,Hyderabad,Not Eligible Yet
+397,24MECH0397,Keerthi Das,Female,19,MECH,1,D,7.57,94.0,0,9410950586,keerthi.das397@college.edu,Guntur,Not Eligible Yet
+398,24EEE0398,Varun Verma,Male,22,EEE,4,C,6.58,98.0,0,9209815321,varun.verma398@college.edu,Chennai,Eligible
+399,24AIDS0399,Aarav Singh,Male,21,AI&DS,4,C,6.06,72.4,0,9943666157,aarav.singh399@college.edu,Nellore,Placed
+400,24EEE0400,Anjali Rao,Female,18,EEE,1,D,8.95,67.4,0,9306364903,anjali.rao400@college.edu,Chennai,Not Eligible Yet
+401,24CSE0401,Keerthi Mehta,Male,19,CSE,1,B,8.8,66.1,0,9927850618,keerthi.mehta401@college.edu,Guntur,Not Eligible Yet
+402,24MECH0402,Nisha Nair,Male,21,MECH,4,B,8.83,83.7,0,9616716343,nisha.nair402@college.edu,Chennai,Not Interested
+403,24AIDS0403,Ishita Patel,Female,18,AI&DS,1,B,7.23,70.7,0,9228472771,ishita.patel403@college.edu,Visakhapatnam,Not Eligible Yet
+404,24CSE0404,Tejas Rao,Male,19,CSE,1,A,6.95,82.0,0,9463377959,tejas.rao404@college.edu,Vijayawada,Not Eligible Yet
+405,24AIDS0405,Chaitanya Patel,Female,20,AI&DS,3,D,6.88,98.4,1,9912497781,chaitanya.patel405@college.edu,Bengaluru,Not Eligible Yet
+406,24CSE0406,Riya Gupta,Male,21,CSE,2,D,6.95,66.3,1,9700248296,riya.gupta406@college.edu,Chennai,Not Eligible Yet
+407,24CIVIL0407,Diya Gupta,Female,20,CIVIL,2,A,7.05,93.3,2,9695411648,diya.gupta407@college.edu,Tirupati,Not Eligible Yet
+408,24MECH0408,Nikhil Das,Female,21,MECH,2,A,7.73,91.4,0,9887759003,nikhil.das408@college.edu,Tirupati,Not Eligible Yet
+409,24CIVIL0409,Keerthi Nair,Male,22,CIVIL,3,B,8.5,83.3,0,9662715631,keerthi.nair409@college.edu,Nellore,Not Eligible Yet
+410,24EEE0410,Sanjay Nair,Male,20,EEE,3,A,7.99,67.3,1,9239344057,sanjay.nair410@college.edu,Tirupati,Not Eligible Yet
+411,24CSE0411,Varun Verma,Male,19,CSE,2,C,8.17,93.4,0,9664596387,varun.verma411@college.edu,Rajahmundry,Not Eligible Yet
+412,24EEE0412,Karthik Sharma,Male,18,EEE,1,C,8.49,96.6,1,9602574675,karthik.sharma412@college.edu,Vijayawada,Not Eligible Yet
+413,24EEE0413,Akash Das,Male,23,EEE,4,A,8.79,93.4,0,9331820924,akash.das413@college.edu,Kurnool,Not Eligible Yet
+414,24CIVIL0414,Riya Verma,Male,19,CIVIL,2,A,8.17,97.2,0,9699299989,riya.verma414@college.edu,Visakhapatnam,Not Eligible Yet
+415,24AIDS0415,Swathi Joshi,Male,20,AI&DS,3,D,9.01,83.7,0,9806019487,swathi.joshi415@college.edu,Tirupati,Not Eligible Yet
+416,24EEE0416,Zoya Nair,Female,21,EEE,3,B,8.9,79.6,1,9753278884,zoya.nair416@college.edu,Hyderabad,Not Eligible Yet
+417,24CIVIL0417,Manoj Gupta,Female,22,CIVIL,4,A,9.65,65.0,0,9405460403,manoj.gupta417@college.edu,Rajahmundry,Eligible
+418,24CSE0418,Nisha Singh,Female,20,CSE,3,B,6.08,92.9,0,9396306713,nisha.singh418@college.edu,Kurnool,Not Eligible Yet
+419,24CSE0419,Swathi Gupta,Male,18,CSE,1,A,7.01,95.2,0,9375139723,swathi.gupta419@college.edu,Chennai,Not Eligible Yet
+420,24CIVIL0420,Ishita Sharma,Female,23,CIVIL,4,A,9.01,70.9,1,9840447097,ishita.sharma420@college.edu,Rajahmundry,Not Interested
+421,24AIDS0421,Riya Sharma,Female,18,AI&DS,1,A,7.32,92.8,0,9229429404,riya.sharma421@college.edu,Hyderabad,Not Eligible Yet
+422,24CSE0422,Nisha Kumar,Male,22,CSE,4,D,7.24,88.7,0,9823310328,nisha.kumar422@college.edu,Visakhapatnam,Not Eligible Yet
+423,24MECH0423,Nikhil Mehta,Male,19,MECH,2,C,7.28,81.2,1,9688574163,nikhil.mehta423@college.edu,Visakhapatnam,Not Eligible Yet
+424,24MECH0424,Vamsi Joshi,Male,20,MECH,1,B,8.9,81.4,0,9524470332,vamsi.joshi424@college.edu,Rajahmundry,Not Eligible Yet
+425,24ECE0425,Ananya Das,Female,20,ECE,2,C,8.6,84.6,0,9544080348,ananya.das425@college.edu,Visakhapatnam,Not Eligible Yet
+426,24ECE0426,Pavan Gupta,Male,22,ECE,3,B,8.92,70.8,0,9982169157,pavan.gupta426@college.edu,Nellore,Not Eligible Yet
+427,24CSE0427,Karthik Verma,Female,23,CSE,4,B,6.59,89.8,0,9894119729,karthik.verma427@college.edu,Vijayawada,Eligible
+428,24CSE0428,Pranav Patel,Female,21,CSE,3,C,7.79,76.3,1,9327499388,pranav.patel428@college.edu,Hyderabad,Not Eligible Yet
+429,24CIVIL0429,Chaitanya Reddy,Male,22,CIVIL,4,C,6.97,67.0,0,9847889838,chaitanya.reddy429@college.edu,Rajahmundry,Not Eligible Yet
+430,24AIDS0430,Aarav Sharma,Female,22,AI&DS,4,C,8.52,96.0,0,9215847550,aarav.sharma430@college.edu,Vijayawada,Placed
+431,24MECH0431,Vamsi Patel,Female,20,MECH,2,A,9.29,83.1,0,9637569722,vamsi.patel431@college.edu,Nellore,Not Eligible Yet
+432,24ECE0432,Vishnu Iyer,Female,19,ECE,1,C,7.49,70.3,0,9477863798,vishnu.iyer432@college.edu,Bengaluru,Not Eligible Yet
+433,24CIVIL0433,Meghana Kumar,Female,21,CIVIL,2,C,9.34,95.3,1,9131638762,meghana.kumar433@college.edu,Kurnool,Not Eligible Yet
+434,24ECE0434,Pranav Mehta,Male,21,ECE,2,D,6.33,78.0,2,9757611451,pranav.mehta434@college.edu,Hyderabad,Not Eligible Yet
+435,24CIVIL0435,Chaitanya Joshi,Female,20,CIVIL,2,B,7.71,69.5,0,9723876967,chaitanya.joshi435@college.edu,Kurnool,Not Eligible Yet
+436,24EEE0436,Vishnu Rao,Male,20,EEE,2,A,8.49,84.2,0,9172814771,vishnu.rao436@college.edu,Kurnool,Not Eligible Yet
+437,24EEE0437,Chaitanya Reddy,Female,20,EEE,2,B,9.65,75.3,1,9982292061,chaitanya.reddy437@college.edu,Chennai,Not Eligible Yet
+438,24CSE0438,Charan Naidu,Female,19,CSE,2,C,8.3,85.8,0,9347940275,charan.naidu438@college.edu,Vijayawada,Not Eligible Yet
+439,24AIDS0439,Tejas Rao,Female,20,AI&DS,1,B,8.71,77.7,1,9627685695,tejas.rao439@college.edu,Nellore,Not Eligible Yet
+440,24ECE0440,Karthik Kumar,Male,20,ECE,2,B,9.52,97.3,0,9820844854,karthik.kumar440@college.edu,Hyderabad,Not Eligible Yet
+441,24ECE0441,Srinivas Chowdhury,Female,20,ECE,1,D,9.29,95.2,0,9933454210,srinivas.chowdhury441@college.edu,Vijayawada,Not Eligible Yet
+442,24MECH0442,Yash Kumar,Male,22,MECH,3,D,7.72,93.1,0,9363841612,yash.kumar442@college.edu,Kurnool,Not Eligible Yet
+443,24CIVIL0443,Riya Kumar,Female,18,CIVIL,1,B,7.67,95.1,1,9406998453,riya.kumar443@college.edu,Nellore,Not Eligible Yet
+444,24EEE0444,Akash Rao,Female,22,EEE,4,B,6.34,82.0,0,9728619698,akash.rao444@college.edu,Kurnool,Placed
+445,24EEE0445,Srinivas Reddy,Female,21,EEE,4,C,8.24,89.2,0,9588212379,srinivas.reddy445@college.edu,Guntur,Not Interested
+446,24AIDS0446,Bhavya Sharma,Female,19,AI&DS,2,B,8.41,67.9,1,9880474837,bhavya.sharma446@college.edu,Kurnool,Not Eligible Yet
+447,24CIVIL0447,Riya Kumar,Female,21,CIVIL,4,A,8.15,87.4,0,9255270986,riya.kumar447@college.edu,Tirupati,Placed
+448,24EEE0448,Srinivas Iyer,Male,22,EEE,3,A,6.45,69.5,0,9768469061,srinivas.iyer448@college.edu,Chennai,Not Eligible Yet
+449,24MECH0449,Varun Reddy,Female,23,MECH,4,A,6.9,85.0,0,9540396677,varun.reddy449@college.edu,Nellore,Not Eligible Yet
+450,24CIVIL0450,Meghana Verma,Male,19,CIVIL,2,C,6.56,87.2,0,9134823688,meghana.verma450@college.edu,Rajahmundry,Not Eligible Yet
+451,24CSE0451,Akash Patel,Male,21,CSE,3,B,6.61,74.7,0,9851454793,akash.patel451@college.edu,Rajahmundry,Not Eligible Yet
+452,24AIDS0452,Rahul Kumar,Female,21,AI&DS,4,A,7.23,95.5,1,9914370885,rahul.kumar452@college.edu,Visakhapatnam,Not Interested
+453,24ECE0453,Bhavya Das,Female,22,ECE,4,A,7.99,88.7,0,9217362383,bhavya.das453@college.edu,Rajahmundry,Placed
+454,24MECH0454,Pavan Das,Female,22,MECH,3,D,9.52,85.9,0,9882956156,pavan.das454@college.edu,Nellore,Not Eligible Yet
+455,24CIVIL0455,Karthik Iyer,Male,19,CIVIL,2,D,6.45,80.8,1,9891850638,karthik.iyer455@college.edu,Hyderabad,Not Eligible Yet
+456,24CSE0456,Pranav Gupta,Male,23,CSE,4,C,6.04,71.8,0,9948465967,pranav.gupta456@college.edu,Guntur,Not Interested
+457,24CSE0457,Bhavya Nair,Female,21,CSE,3,C,8.75,85.9,0,9288580302,bhavya.nair457@college.edu,Hyderabad,Not Eligible Yet
+458,24AIDS0458,Tejas Chowdhury,Male,20,AI&DS,3,D,7.83,86.3,1,9676564508,tejas.chowdhury458@college.edu,Bengaluru,Not Eligible Yet
+459,24AIDS0459,Akash Iyer,Female,23,AI&DS,4,A,8.11,65.6,0,9456180872,akash.iyer459@college.edu,Bengaluru,Eligible
+460,24CSE0460,Pranav Mehta,Male,22,CSE,3,C,8.17,78.2,0,9940035404,pranav.mehta460@college.edu,Chennai,Not Eligible Yet
+461,24EEE0461,Sanjay Sharma,Male,19,EEE,1,B,7.41,93.2,0,9663822282,sanjay.sharma461@college.edu,Chennai,Not Eligible Yet
+462,24EEE0462,Aditya Verma,Female,18,EEE,1,C,7.92,92.2,2,9265439752,aditya.verma462@college.edu,Hyderabad,Not Eligible Yet
+463,24AIDS0463,Vishnu Iyer,Male,22,AI&DS,4,B,8.92,68.3,3,9654208214,vishnu.iyer463@college.edu,Tirupati,Not Eligible Yet
+464,24MECH0464,Vishnu Patel,Female,21,MECH,4,D,9.54,88.4,0,9193497030,vishnu.patel464@college.edu,Bengaluru,Not Eligible Yet
+465,24CIVIL0465,Nisha Reddy,Female,20,CIVIL,1,C,8.43,72.1,0,9407699378,nisha.reddy465@college.edu,Chennai,Not Eligible Yet
+466,24AIDS0466,Bhavya Das,Male,21,AI&DS,4,B,7.04,65.5,0,9651968433,bhavya.das466@college.edu,Guntur,Not Interested
+467,24EEE0467,Chaitanya Iyer,Male,22,EEE,3,A,6.65,75.6,1,9680440242,chaitanya.iyer467@college.edu,Nellore,Not Eligible Yet
+468,24CSE0468,Tejas Kumar,Female,19,CSE,2,D,6.2,79.5,0,9740080432,tejas.kumar468@college.edu,Rajahmundry,Not Eligible Yet
+469,24EEE0469,Pranav Verma,Male,22,EEE,3,D,9.7,90.7,0,9241514106,pranav.verma469@college.edu,Guntur,Not Eligible Yet
+470,24MECH0470,Nisha Mishra,Male,19,MECH,1,D,9.6,69.9,1,9377082043,nisha.mishra470@college.edu,Bengaluru,Not Eligible Yet
+471,24AIDS0471,Pranav Nair,Female,20,AI&DS,2,C,6.12,81.2,0,9595254481,pranav.nair471@college.edu,Tirupati,Not Eligible Yet
+472,24CIVIL0472,Charan Patel,Male,21,CIVIL,3,D,7.24,87.1,1,9672031195,charan.patel472@college.edu,Nellore,Not Eligible Yet
+473,24ECE0473,Keerthi Naidu,Female,22,ECE,4,C,6.25,72.1,0,9562942172,keerthi.naidu473@college.edu,Visakhapatnam,Eligible
+474,24AIDS0474,Ananya Chowdhury,Female,19,AI&DS,2,A,7.24,68.3,0,9430750834,ananya.chowdhury474@college.edu,Visakhapatnam,Not Eligible Yet
+475,24AIDS0475,Riya Nair,Male,19,AI&DS,1,B,6.34,92.8,1,9910662740,riya.nair475@college.edu,Vijayawada,Not Eligible Yet
+476,24MECH0476,Yash Iyer,Female,20,MECH,2,D,6.74,88.2,0,9712329631,yash.iyer476@college.edu,Chennai,Not Eligible Yet
+477,24CSE0477,Aarav Mehta,Female,20,CSE,3,C,6.24,95.6,2,9100905503,aarav.mehta477@college.edu,Kurnool,Not Eligible Yet
+478,24EEE0478,Aadhya Singh,Female,19,EEE,1,B,8.38,89.2,0,9567281753,aadhya.singh478@college.edu,Kurnool,Not Eligible Yet
+479,24MECH0479,Charan Verma,Female,21,MECH,2,B,9.2,77.2,0,9409743234,charan.verma479@college.edu,Tirupati,Not Eligible Yet
+480,24CSE0480,Aadhya Rao,Female,20,CSE,1,D,8.5,98.1,0,9247339141,aadhya.rao480@college.edu,Visakhapatnam,Not Eligible Yet
+481,24CIVIL0481,Diya Mishra,Female,23,CIVIL,4,A,8.1,80.3,0,9299491606,diya.mishra481@college.edu,Visakhapatnam,Placed
+482,24AIDS0482,Vamsi Das,Female,20,AI&DS,2,D,6.13,66.3,0,9495758262,vamsi.das482@college.edu,Guntur,Not Eligible Yet
+483,24ECE0483,Vishnu Das,Male,19,ECE,1,C,7.99,85.7,0,9777169078,vishnu.das483@college.edu,Guntur,Not Eligible Yet
+484,24EEE0484,Yash Reddy,Female,19,EEE,1,C,7.95,81.0,1,9552062605,yash.reddy484@college.edu,Bengaluru,Not Eligible Yet
+485,24ECE0485,Aditya Iyer,Female,22,ECE,3,A,6.23,81.1,0,9155426425,aditya.iyer485@college.edu,Chennai,Not Eligible Yet
+486,24MECH0486,Anjali Rao,Male,22,MECH,3,C,9.24,74.4,0,9401691319,anjali.rao486@college.edu,Chennai,Not Eligible Yet
+487,24AIDS0487,Bhavya Naidu,Male,20,AI&DS,1,D,8.5,77.6,0,9940232725,bhavya.naidu487@college.edu,Hyderabad,Not Eligible Yet
+488,24CIVIL0488,Aditya Nair,Male,19,CIVIL,2,D,8.26,92.9,1,9908271285,aditya.nair488@college.edu,Visakhapatnam,Not Eligible Yet
+489,24AIDS0489,Srinivas Naidu,Female,19,AI&DS,2,D,6.21,74.0,1,9156396358,srinivas.naidu489@college.edu,Tirupati,Not Eligible Yet
+490,24MECH0490,Nisha Chowdhury,Male,23,MECH,4,D,7.44,89.0,0,9255853446,nisha.chowdhury490@college.edu,Kurnool,Not Eligible Yet
+491,24MECH0491,Riya Nair,Male,22,MECH,3,C,6.37,83.1,0,9563626557,riya.nair491@college.edu,Rajahmundry,Not Eligible Yet
+492,24EEE0492,Meghana Patel,Female,21,EEE,3,B,7.75,88.0,0,9821436234,meghana.patel492@college.edu,Rajahmundry,Not Eligible Yet
+493,24AIDS0493,Diya Nair,Male,22,AI&DS,3,A,8.56,93.3,0,9204903246,diya.nair493@college.edu,Kurnool,Not Eligible Yet
+494,24EEE0494,Karthik Iyer,Male,22,EEE,4,A,6.13,86.1,0,9737951442,karthik.iyer494@college.edu,Hyderabad,Not Eligible Yet
+495,24CIVIL0495,Charan Mehta,Male,20,CIVIL,1,D,9.4,88.7,0,9601389735,charan.mehta495@college.edu,Guntur,Not Eligible Yet
+496,24MECH0496,Pavan Das,Male,20,MECH,3,C,7.05,67.1,0,9164487484,pavan.das496@college.edu,Chennai,Not Eligible Yet
+497,24MECH0497,Ananya Chowdhury,Female,19,MECH,2,B,6.68,81.7,0,9925393205,ananya.chowdhury497@college.edu,Visakhapatnam,Not Eligible Yet
+498,24MECH0498,Manoj Patel,Male,18,MECH,1,B,6.27,89.7,1,9120148538,manoj.patel498@college.edu,Nellore,Not Eligible Yet
+499,24CSE0499,Riya Das,Female,18,CSE,1,D,9.44,84.5,0,9927844881,riya.das499@college.edu,Nellore,Not Eligible Yet
+500,24MECH0500,Ananya Singh,Female,21,MECH,4,C,9.63,92.8,0,9709073484,ananya.singh500@college.edu,Kurnool,Not Interested
+501,24MECH0501,Akash Sharma,Female,21,MECH,3,B,6.31,80.6,1,9795561982,akash.sharma501@college.edu,Hyderabad,Not Eligible Yet
+502,24MECH0502,Harsha Iyer,Female,20,MECH,1,B,9.41,86.4,0,9191120392,harsha.iyer502@college.edu,Nellore,Not Eligible Yet
+503,24CSE0503,Harsha Reddy,Male,21,CSE,2,D,7.86,67.1,0,9430423516,harsha.reddy503@college.edu,Nellore,Not Eligible Yet
+504,24CSE0504,Pranav Kumar,Male,19,CSE,1,B,7.54,72.2,0,9661695439,pranav.kumar504@college.edu,Nellore,Not Eligible Yet
+505,24CSE0505,Aditya Rao,Male,20,CSE,2,A,7.79,96.2,0,9853011714,aditya.rao505@college.edu,Tirupati,Not Eligible Yet
+506,24AIDS0506,Akash Iyer,Female,19,AI&DS,2,A,8.32,93.4,0,9977752159,akash.iyer506@college.edu,Guntur,Not Eligible Yet
+507,24CIVIL0507,Karthik Sharma,Female,21,CIVIL,4,A,7.28,93.4,1,9531653458,karthik.sharma507@college.edu,Bengaluru,Eligible
+508,24ECE0508,Aditya Naidu,Male,21,ECE,3,B,6.46,69.8,0,9847641906,aditya.naidu508@college.edu,Bengaluru,Not Eligible Yet
+509,24ECE0509,Aditya Rao,Female,21,ECE,4,B,8.96,65.5,0,9106817809,aditya.rao509@college.edu,Vijayawada,Not Eligible Yet
+510,24MECH0510,Tejas Rao,Male,20,MECH,3,A,8.43,82.8,0,9287420491,tejas.rao510@college.edu,Rajahmundry,Not Eligible Yet
+511,24AIDS0511,Varun Sharma,Female,21,AI&DS,2,A,7.32,65.2,0,9226173057,varun.sharma511@college.edu,Kurnool,Not Eligible Yet
+512,24CIVIL0512,Vamsi Singh,Male,21,CIVIL,3,D,7.05,71.6,1,9835774878,vamsi.singh512@college.edu,Nellore,Not Eligible Yet
+513,24ECE0513,Aditya Kumar,Female,21,ECE,2,A,7.08,79.8,0,9964527175,aditya.kumar513@college.edu,Nellore,Not Eligible Yet
+514,24AIDS0514,Akash Naidu,Male,18,AI&DS,1,C,7.84,68.9,1,9874600661,akash.naidu514@college.edu,Nellore,Not Eligible Yet
+515,24ECE0515,Pavan Singh,Female,21,ECE,4,B,6.87,73.1,0,9314700940,pavan.singh515@college.edu,Visakhapatnam,Not Eligible Yet
+516,24CIVIL0516,Varun Kumar,Male,22,CIVIL,4,D,6.82,85.7,0,9501026552,varun.kumar516@college.edu,Tirupati,Eligible
+517,24EEE0517,Harsha Nair,Male,20,EEE,3,D,8.63,67.0,0,9599863643,harsha.nair517@college.edu,Nellore,Not Eligible Yet
+518,24EEE0518,Karthik Iyer,Male,21,EEE,2,B,9.0,86.7,0,9282466834,karthik.iyer518@college.edu,Rajahmundry,Not Eligible Yet
+519,24MECH0519,Vishnu Chowdhury,Female,18,MECH,1,B,9.18,74.5,1,9890466024,vishnu.chowdhury519@college.edu,Hyderabad,Not Eligible Yet
+520,24MECH0520,Karthik Rao,Male,22,MECH,3,A,7.59,66.5,3,9887564180,karthik.rao520@college.edu,Kurnool,Not Eligible Yet
+521,24CIVIL0521,Rohit Chowdhury,Male,23,CIVIL,4,B,7.72,73.2,0,9113339084,rohit.chowdhury521@college.edu,Visakhapatnam,Eligible
+522,24EEE0522,Keerthi Sharma,Female,20,EEE,3,A,8.54,70.5,0,9712441715,keerthi.sharma522@college.edu,Rajahmundry,Not Eligible Yet
+523,24MECH0523,Charan Mehta,Female,21,MECH,4,D,8.38,88.9,0,9773563645,charan.mehta523@college.edu,Guntur,Not Interested
+524,24EEE0524,Sneha Das,Male,20,EEE,1,C,8.99,67.8,1,9890017125,sneha.das524@college.edu,Vijayawada,Not Eligible Yet
+525,24CSE0525,Riya Gupta,Male,19,CSE,1,B,7.39,71.0,0,9171947052,riya.gupta525@college.edu,Kurnool,Not Eligible Yet
+526,24EEE0526,Keerthi Patel,Female,21,EEE,2,B,8.8,90.6,1,9854672588,keerthi.patel526@college.edu,Hyderabad,Not Eligible Yet
+527,24EEE0527,Meghana Joshi,Male,21,EEE,3,D,6.24,76.7,0,9665521130,meghana.joshi527@college.edu,Guntur,Not Eligible Yet
+528,24MECH0528,Rahul Sharma,Female,20,MECH,3,B,6.33,78.3,0,9182621546,rahul.sharma528@college.edu,Guntur,Not Eligible Yet
+529,24CSE0529,Chaitanya Chowdhury,Male,20,CSE,3,B,7.98,86.3,0,9832725044,chaitanya.chowdhury529@college.edu,Kurnool,Not Eligible Yet
+530,24EEE0530,Sanjay Mishra,Male,23,EEE,4,C,7.11,67.1,1,9349460359,sanjay.mishra530@college.edu,Kurnool,Placed
+531,24AIDS0531,Pavan Chowdhury,Female,22,AI&DS,3,C,7.74,84.3,1,9429096506,pavan.chowdhury531@college.edu,Tirupati,Not Eligible Yet
+532,24MECH0532,Rahul Iyer,Male,19,MECH,2,C,7.34,80.5,0,9272646820,rahul.iyer532@college.edu,Kurnool,Not Eligible Yet
+533,24ECE0533,Chaitanya Naidu,Male,19,ECE,2,B,6.16,75.8,0,9379610097,chaitanya.naidu533@college.edu,Bengaluru,Not Eligible Yet
+534,24CIVIL0534,Aditya Nair,Male,20,CIVIL,2,A,7.42,83.4,0,9423797338,aditya.nair534@college.edu,Guntur,Not Eligible Yet
+535,24MECH0535,Chaitanya Mishra,Male,22,MECH,4,D,6.02,90.1,2,9455709881,chaitanya.mishra535@college.edu,Chennai,Not Interested
+536,24CIVIL0536,Srinivas Nair,Male,21,CIVIL,2,C,8.78,95.6,0,9691588789,srinivas.nair536@college.edu,Guntur,Not Eligible Yet
+537,24MECH0537,Karthik Mishra,Male,19,MECH,1,C,7.24,85.7,0,9665254032,karthik.mishra537@college.edu,Hyderabad,Not Eligible Yet
+538,24CSE0538,Anjali Mishra,Male,21,CSE,2,A,9.71,78.4,0,9747650867,anjali.mishra538@college.edu,Rajahmundry,Not Eligible Yet
+539,24MECH0539,Chaitanya Joshi,Female,21,MECH,3,A,7.42,74.7,0,9578433629,chaitanya.joshi539@college.edu,Kurnool,Not Eligible Yet
+540,24AIDS0540,Srinivas Joshi,Female,20,AI&DS,2,B,6.62,89.8,1,9882334208,srinivas.joshi540@college.edu,Visakhapatnam,Not Eligible Yet
+541,24ECE0541,Ishita Iyer,Female,19,ECE,1,D,6.25,97.6,1,9194970622,ishita.iyer541@college.edu,Vijayawada,Not Eligible Yet
+542,24MECH0542,Diya Mishra,Male,22,MECH,3,C,6.76,93.3,0,9626762303,diya.mishra542@college.edu,Vijayawada,Not Eligible Yet
+543,24MECH0543,Zoya Mishra,Male,20,MECH,3,A,9.01,70.2,0,9787790914,zoya.mishra543@college.edu,Nellore,Not Eligible Yet
+544,24MECH0544,Diya Chowdhury,Male,22,MECH,3,C,6.11,91.0,0,9171645238,diya.chowdhury544@college.edu,Rajahmundry,Not Eligible Yet
+545,24CIVIL0545,Sneha Das,Female,23,CIVIL,4,A,9.7,92.8,0,9887006874,sneha.das545@college.edu,Rajahmundry,Not Interested
+546,24CIVIL0546,Akash Rao,Female,20,CIVIL,2,D,9.34,69.6,0,9392777562,akash.rao546@college.edu,Bengaluru,Not Eligible Yet
+547,24CSE0547,Nikhil Iyer,Male,22,CSE,3,B,7.95,91.1,0,9201477888,nikhil.iyer547@college.edu,Rajahmundry,Not Eligible Yet
+548,24EEE0548,Nisha Das,Female,22,EEE,3,C,6.36,84.7,1,9113848767,nisha.das548@college.edu,Tirupati,Not Eligible Yet
+549,24MECH0549,Sanjay Nair,Male,20,MECH,3,A,6.83,82.1,1,9953739357,sanjay.nair549@college.edu,Kurnool,Not Eligible Yet
+550,24MECH0550,Ananya Patel,Male,21,MECH,4,C,7.82,75.6,0,9977288628,ananya.patel550@college.edu,Nellore,Eligible
+551,24CSE0551,Bhavya Singh,Male,20,CSE,3,A,8.61,75.5,0,9184401435,bhavya.singh551@college.edu,Visakhapatnam,Not Eligible Yet
+552,24CSE0552,Tejas Joshi,Male,18,CSE,1,A,6.41,92.0,0,9163635565,tejas.joshi552@college.edu,Nellore,Not Eligible Yet
+553,24CSE0553,Ananya Iyer,Male,22,CSE,3,B,8.87,91.6,2,9320547840,ananya.iyer553@college.edu,Rajahmundry,Not Eligible Yet
+554,24AIDS0554,Priya Reddy,Male,19,AI&DS,2,B,9.21,97.0,2,9473486641,priya.reddy554@college.edu,Bengaluru,Not Eligible Yet
+555,24CIVIL0555,Ananya Patel,Male,21,CIVIL,2,A,8.01,89.3,2,9284440344,ananya.patel555@college.edu,Kurnool,Not Eligible Yet
+556,24ECE0556,Vamsi Chowdhury,Male,19,ECE,1,D,7.67,97.6,0,9480987586,vamsi.chowdhury556@college.edu,Visakhapatnam,Not Eligible Yet
+557,24CIVIL0557,Karthik Joshi,Female,19,CIVIL,2,C,6.47,68.8,0,9918485133,karthik.joshi557@college.edu,Bengaluru,Not Eligible Yet
+558,24CSE0558,Pavan Chowdhury,Female,18,CSE,1,D,7.08,85.4,0,9576693984,pavan.chowdhury558@college.edu,Hyderabad,Not Eligible Yet
+559,24MECH0559,Harsha Sharma,Female,21,MECH,3,D,6.68,99.0,0,9212927452,harsha.sharma559@college.edu,Visakhapatnam,Not Eligible Yet
+560,24CSE0560,Chaitanya Mehta,Male,19,CSE,1,C,8.82,95.3,0,9490530625,chaitanya.mehta560@college.edu,Hyderabad,Not Eligible Yet
+561,24CIVIL0561,Rohit Patel,Female,19,CIVIL,2,C,8.76,74.5,1,9724830363,rohit.patel561@college.edu,Rajahmundry,Not Eligible Yet
+562,24EEE0562,Tejas Mehta,Female,22,EEE,4,B,6.56,80.5,0,9625426306,tejas.mehta562@college.edu,Nellore,Eligible
+563,24CSE0563,Akash Sharma,Male,19,CSE,1,A,9.69,78.0,0,9263999734,akash.sharma563@college.edu,Chennai,Not Eligible Yet
+564,24AIDS0564,Vishnu Chowdhury,Male,19,AI&DS,1,A,7.12,81.9,0,9682438493,vishnu.chowdhury564@college.edu,Bengaluru,Not Eligible Yet
+565,24MECH0565,Bhavya Mehta,Female,19,MECH,1,C,9.24,80.0,0,9289911827,bhavya.mehta565@college.edu,Kurnool,Not Eligible Yet
+566,24MECH0566,Sneha Rao,Female,20,MECH,2,D,7.85,68.7,0,9808753985,sneha.rao566@college.edu,Kurnool,Not Eligible Yet
+567,24CIVIL0567,Deepak Kumar,Female,22,CIVIL,4,C,7.88,98.0,0,9478777212,deepak.kumar567@college.edu,Chennai,Not Eligible Yet
+568,24CIVIL0568,Aditya Rao,Female,19,CIVIL,1,D,9.08,84.9,1,9771252921,aditya.rao568@college.edu,Bengaluru,Not Eligible Yet
+569,24MECH0569,Priya Gupta,Female,19,MECH,1,A,6.21,73.3,0,9435114318,priya.gupta569@college.edu,Rajahmundry,Not Eligible Yet
+570,24EEE0570,Bhavya Nair,Male,18,EEE,1,D,8.05,66.3,0,9553626970,bhavya.nair570@college.edu,Rajahmundry,Not Eligible Yet
+571,24CSE0571,Tejas Reddy,Female,21,CSE,3,B,8.17,76.0,0,9624371079,tejas.reddy571@college.edu,Guntur,Not Eligible Yet
+572,24MECH0572,Vamsi Nair,Female,20,MECH,3,B,7.38,79.8,0,9945195456,vamsi.nair572@college.edu,Guntur,Not Eligible Yet
+573,24EEE0573,Akash Iyer,Female,22,EEE,3,A,9.06,86.2,2,9870631850,akash.iyer573@college.edu,Rajahmundry,Not Eligible Yet
+574,24EEE0574,Ananya Chowdhury,Male,21,EEE,3,D,7.32,67.6,1,9641852570,ananya.chowdhury574@college.edu,Chennai,Not Eligible Yet
+575,24ECE0575,Sanjay Mehta,Female,21,ECE,3,B,8.55,83.6,1,9774142288,sanjay.mehta575@college.edu,Kurnool,Not Eligible Yet
+576,24ECE0576,Swathi Das,Female,23,ECE,4,D,9.55,89.7,0,9315444177,swathi.das576@college.edu,Bengaluru,Eligible
+577,24ECE0577,Nisha Joshi,Female,20,ECE,2,C,9.27,96.0,0,9542852340,nisha.joshi577@college.edu,Chennai,Not Eligible Yet
+578,24EEE0578,Keerthi Mehta,Male,19,EEE,2,D,6.57,65.9,1,9433440399,keerthi.mehta578@college.edu,Nellore,Not Eligible Yet
+579,24MECH0579,Aditya Verma,Female,21,MECH,4,B,6.52,73.8,1,9807242295,aditya.verma579@college.edu,Kurnool,Not Eligible Yet
+580,24CSE0580,Akash Sharma,Female,22,CSE,4,D,9.3,95.6,0,9490234548,akash.sharma580@college.edu,Guntur,Eligible
+581,24CSE0581,Vamsi Patel,Female,21,CSE,2,C,7.89,68.1,0,9930207388,vamsi.patel581@college.edu,Bengaluru,Not Eligible Yet
+582,24AIDS0582,Keerthi Joshi,Male,21,AI&DS,4,A,6.41,72.3,0,9538489918,keerthi.joshi582@college.edu,Chennai,Placed
+583,24AIDS0583,Bhavya Nair,Female,22,AI&DS,3,C,7.8,73.4,0,9942106991,bhavya.nair583@college.edu,Tirupati,Not Eligible Yet
+584,24AIDS0584,Rahul Iyer,Male,21,AI&DS,4,C,9.2,87.5,2,9841614639,rahul.iyer584@college.edu,Hyderabad,Placed
+585,24AIDS0585,Rahul Patel,Male,22,AI&DS,3,C,9.26,78.2,2,9521954302,rahul.patel585@college.edu,Chennai,Not Eligible Yet
+586,24ECE0586,Nisha Verma,Female,18,ECE,1,C,8.4,94.9,1,9536249294,nisha.verma586@college.edu,Vijayawada,Not Eligible Yet
+587,24MECH0587,Tejas Joshi,Female,19,MECH,1,A,9.33,92.9,1,9849989538,tejas.joshi587@college.edu,Chennai,Not Eligible Yet
+588,24MECH0588,Zoya Nair,Male,21,MECH,3,A,8.9,86.8,0,9576102460,zoya.nair588@college.edu,Tirupati,Not Eligible Yet
+589,24ECE0589,Nisha Nair,Male,23,ECE,4,D,6.42,73.5,1,9924212122,nisha.nair589@college.edu,Tirupati,Not Interested
+590,24MECH0590,Charan Das,Female,21,MECH,4,D,9.04,71.8,0,9295302103,charan.das590@college.edu,Visakhapatnam,Eligible
+591,24CSE0591,Zoya Singh,Female,18,CSE,1,D,6.75,88.8,0,9530607955,zoya.singh591@college.edu,Rajahmundry,Not Eligible Yet
+592,24ECE0592,Anjali Gupta,Male,20,ECE,3,A,6.05,82.9,1,9587165109,anjali.gupta592@college.edu,Nellore,Not Eligible Yet
+593,24AIDS0593,Ishita Verma,Female,20,AI&DS,2,B,8.84,78.0,0,9321841455,ishita.verma593@college.edu,Rajahmundry,Not Eligible Yet
+594,24AIDS0594,Harsha Joshi,Female,20,AI&DS,3,D,9.01,66.0,2,9352850765,harsha.joshi594@college.edu,Rajahmundry,Not Eligible Yet
+595,24EEE0595,Swathi Sharma,Female,19,EEE,2,D,6.51,76.0,0,9837502201,swathi.sharma595@college.edu,Hyderabad,Not Eligible Yet
+596,24AIDS0596,Manoj Sharma,Male,21,AI&DS,4,A,6.2,96.7,0,9480428530,manoj.sharma596@college.edu,Rajahmundry,Not Eligible Yet
+597,24CIVIL0597,Riya Iyer,Female,21,CIVIL,3,B,6.5,95.3,0,9292599457,riya.iyer597@college.edu,Chennai,Not Eligible Yet
+598,24EEE0598,Swathi Rao,Female,21,EEE,4,B,8.7,79.7,0,9436370681,swathi.rao598@college.edu,Vijayawada,Placed
+599,24AIDS0599,Rahul Joshi,Female,21,AI&DS,3,B,8.33,90.9,0,9436092271,rahul.joshi599@college.edu,Visakhapatnam,Not Eligible Yet
+600,24AIDS0600,Varun Rao,Female,22,AI&DS,3,C,6.2,70.1,0,9138506797,varun.rao600@college.edu,Nellore,Not Eligible Yet
+601,24AIDS0601,Swathi Joshi,Female,19,AI&DS,2,D,6.16,77.1,1,9620979010,swathi.joshi601@college.edu,Nellore,Not Eligible Yet
+602,24AIDS0602,Chaitanya Patel,Male,19,AI&DS,1,C,6.77,74.7,1,9905238350,chaitanya.patel602@college.edu,Kurnool,Not Eligible Yet
+603,24CIVIL0603,Aarav Naidu,Male,20,CIVIL,2,C,6.94,81.9,0,9452893605,aarav.naidu603@college.edu,Vijayawada,Not Eligible Yet
+604,24MECH0604,Rahul Patel,Male,19,MECH,1,C,6.11,80.6,1,9615240484,rahul.patel604@college.edu,Nellore,Not Eligible Yet
+605,24EEE0605,Aditya Mishra,Male,19,EEE,1,A,6.8,66.7,0,9447002051,aditya.mishra605@college.edu,Vijayawada,Not Eligible Yet
+606,24CSE0606,Rohit Das,Male,21,CSE,4,D,9.67,94.4,0,9323577467,rohit.das606@college.edu,Tirupati,Placed
+607,24AIDS0607,Chaitanya Patel,Female,21,AI&DS,3,B,9.04,90.0,2,9835472281,chaitanya.patel607@college.edu,Rajahmundry,Not Eligible Yet
+608,24AIDS0608,Arjun Gupta,Male,22,AI&DS,3,D,7.86,95.1,0,9704577929,arjun.gupta608@college.edu,Rajahmundry,Not Eligible Yet
+609,24MECH0609,Rahul Naidu,Female,19,MECH,1,B,6.35,82.5,2,9826321952,rahul.naidu609@college.edu,Hyderabad,Not Eligible Yet
+610,24CIVIL0610,Vishnu Sharma,Female,22,CIVIL,4,C,7.66,95.8,0,9259565048,vishnu.sharma610@college.edu,Tirupati,Eligible
+611,24EEE0611,Akash Sharma,Male,21,EEE,4,C,7.94,79.0,0,9873426975,akash.sharma611@college.edu,Rajahmundry,Not Interested
+612,24CIVIL0612,Anjali Reddy,Female,20,CIVIL,3,C,6.68,71.2,0,9189432561,anjali.reddy612@college.edu,Visakhapatnam,Not Eligible Yet
+613,24CIVIL0613,Swathi Mishra,Female,22,CIVIL,3,A,7.3,96.2,1,9326632940,swathi.mishra613@college.edu,Tirupati,Not Eligible Yet
+614,24AIDS0614,Arjun Joshi,Male,22,AI&DS,3,D,6.02,69.0,0,9612303560,arjun.joshi614@college.edu,Nellore,Not Eligible Yet
+615,24EEE0615,Rahul Mehta,Male,22,EEE,4,A,6.48,65.5,0,9117056653,rahul.mehta615@college.edu,Hyderabad,Eligible
+616,24AIDS0616,Chaitanya Singh,Male,22,AI&DS,4,A,6.33,91.2,0,9552989372,chaitanya.singh616@college.edu,Vijayawada,Eligible
+617,24AIDS0617,Srinivas Chowdhury,Male,20,AI&DS,2,A,9.27,84.9,0,9711421299,srinivas.chowdhury617@college.edu,Visakhapatnam,Not Eligible Yet
+618,24CSE0618,Arjun Joshi,Female,21,CSE,3,D,8.8,85.3,0,9412216780,arjun.joshi618@college.edu,Vijayawada,Not Eligible Yet
+619,24MECH0619,Vamsi Chowdhury,Male,21,MECH,4,D,8.01,79.3,0,9168193955,vamsi.chowdhury619@college.edu,Chennai,Placed
+620,24MECH0620,Priya Mishra,Female,20,MECH,1,B,6.08,74.8,0,9469203324,priya.mishra620@college.edu,Nellore,Not Eligible Yet
+621,24CIVIL0621,Pranav Mishra,Female,19,CIVIL,2,D,8.75,78.3,0,9822743448,pranav.mishra621@college.edu,Bengaluru,Not Eligible Yet
+622,24CIVIL0622,Ishita Iyer,Male,21,CIVIL,2,A,8.53,69.4,0,9750418046,ishita.iyer622@college.edu,Nellore,Not Eligible Yet
+623,24MECH0623,Nisha Singh,Male,21,MECH,4,B,9.8,77.2,0,9826845755,nisha.singh623@college.edu,Tirupati,Not Eligible Yet
+624,24EEE0624,Sneha Patel,Male,20,EEE,1,A,6.46,72.6,0,9465420342,sneha.patel624@college.edu,Bengaluru,Not Eligible Yet
+625,24ECE0625,Vamsi Patel,Male,22,ECE,3,A,9.52,79.9,0,9911495781,vamsi.patel625@college.edu,Guntur,Not Eligible Yet
+626,24CIVIL0626,Aditya Patel,Male,18,CIVIL,1,D,9.31,96.0,0,9413664671,aditya.patel626@college.edu,Nellore,Not Eligible Yet
+627,24ECE0627,Rahul Nair,Male,18,ECE,1,B,9.22,79.9,0,9925743075,rahul.nair627@college.edu,Vijayawada,Not Eligible Yet
+628,24EEE0628,Nikhil Naidu,Female,21,EEE,4,B,7.42,90.7,0,9814033220,nikhil.naidu628@college.edu,Hyderabad,Placed
+629,24ECE0629,Sneha Joshi,Female,20,ECE,2,B,9.62,82.5,0,9131957698,sneha.joshi629@college.edu,Nellore,Not Eligible Yet
+630,24AIDS0630,Vishnu Sharma,Female,18,AI&DS,1,A,7.2,98.4,0,9166001117,vishnu.sharma630@college.edu,Visakhapatnam,Not Eligible Yet
+631,24CIVIL0631,Akash Iyer,Female,20,CIVIL,2,C,9.37,88.8,1,9874759532,akash.iyer631@college.edu,Bengaluru,Not Eligible Yet
+632,24EEE0632,Vishnu Rao,Female,20,EEE,1,D,7.7,72.0,0,9946475327,vishnu.rao632@college.edu,Rajahmundry,Not Eligible Yet
+633,24AIDS0633,Rohit Verma,Male,21,AI&DS,3,C,6.14,76.4,1,9894625016,rohit.verma633@college.edu,Tirupati,Not Eligible Yet
+634,24CSE0634,Vamsi Iyer,Female,21,CSE,2,C,8.88,70.4,0,9955341340,vamsi.iyer634@college.edu,Kurnool,Not Eligible Yet
+635,24EEE0635,Sneha Patel,Male,21,EEE,2,A,9.2,73.8,0,9232943217,sneha.patel635@college.edu,Vijayawada,Not Eligible Yet
+636,24EEE0636,Aarav Mishra,Male,22,EEE,4,B,9.06,98.6,0,9774035360,aarav.mishra636@college.edu,Kurnool,Not Interested
+637,24EEE0637,Charan Mehta,Male,22,EEE,3,D,6.4,82.6,0,9935961171,charan.mehta637@college.edu,Bengaluru,Not Eligible Yet
+638,24ECE0638,Sneha Joshi,Male,18,ECE,1,C,6.24,95.2,0,9579065046,sneha.joshi638@college.edu,Guntur,Not Eligible Yet
+639,24CIVIL0639,Zoya Mehta,Female,22,CIVIL,4,B,8.42,98.9,0,9625640719,zoya.mehta639@college.edu,Visakhapatnam,Eligible
+640,24MECH0640,Swathi Rao,Male,21,MECH,2,C,8.64,80.5,0,9268405336,swathi.rao640@college.edu,Kurnool,Not Eligible Yet
+641,24CIVIL0641,Sanjay Patel,Female,18,CIVIL,1,C,8.17,66.4,0,9498860032,sanjay.patel641@college.edu,Chennai,Not Eligible Yet
+642,24EEE0642,Varun Reddy,Male,20,EEE,3,B,8.98,79.3,2,9427667311,varun.reddy642@college.edu,Chennai,Not Eligible Yet
+643,24AIDS0643,Varun Reddy,Female,19,AI&DS,2,D,6.26,66.5,0,9432539857,varun.reddy643@college.edu,Rajahmundry,Not Eligible Yet
+644,24MECH0644,Tejas Rao,Female,20,MECH,3,A,8.89,87.7,0,9881538189,tejas.rao644@college.edu,Bengaluru,Not Eligible Yet
+645,24MECH0645,Karthik Mehta,Male,22,MECH,4,B,9.64,95.3,1,9793547595,karthik.mehta645@college.edu,Guntur,Not Eligible Yet
+646,24CIVIL0646,Bhavya Sharma,Male,20,CIVIL,3,A,9.64,82.7,1,9639704301,bhavya.sharma646@college.edu,Vijayawada,Not Eligible Yet
+647,24CSE0647,Meghana Verma,Female,19,CSE,2,D,6.32,83.1,0,9732319072,meghana.verma647@college.edu,Vijayawada,Not Eligible Yet
+648,24EEE0648,Sneha Naidu,Male,19,EEE,1,B,9.27,75.8,0,9223098723,sneha.naidu648@college.edu,Guntur,Not Eligible Yet
+649,24ECE0649,Diya Das,Male,20,ECE,3,B,7.17,78.8,0,9759787964,diya.das649@college.edu,Bengaluru,Not Eligible Yet
+650,24AIDS0650,Akash Iyer,Male,19,AI&DS,1,A,7.22,79.0,0,9503204182,akash.iyer650@college.edu,Guntur,Not Eligible Yet
+651,24ECE0651,Keerthi Chowdhury,Female,21,ECE,2,A,9.61,74.2,0,9693909246,keerthi.chowdhury651@college.edu,Visakhapatnam,Not Eligible Yet
+652,24CSE0652,Sanjay Singh,Female,21,CSE,4,B,8.11,84.9,0,9919241705,sanjay.singh652@college.edu,Kurnool,Not Interested
+653,24MECH0653,Anjali Verma,Female,21,MECH,4,D,8.05,70.7,0,9555000733,anjali.verma653@college.edu,Kurnool,Not Eligible Yet
+654,24MECH0654,Nikhil Naidu,Male,18,MECH,1,C,9.55,81.4,0,9830142077,nikhil.naidu654@college.edu,Visakhapatnam,Not Eligible Yet
+655,24CIVIL0655,Vamsi Iyer,Male,19,CIVIL,2,B,8.81,84.1,0,9524455403,vamsi.iyer655@college.edu,Guntur,Not Eligible Yet
+656,24MECH0656,Ishita Nair,Female,22,MECH,3,C,8.41,98.3,1,9393145630,ishita.nair656@college.edu,Hyderabad,Not Eligible Yet
+657,24ECE0657,Swathi Nair,Male,20,ECE,3,D,8.46,65.1,0,9110284954,swathi.nair657@college.edu,Tirupati,Not Eligible Yet
+658,24MECH0658,Yash Sharma,Male,23,MECH,4,C,8.05,95.3,1,9578004919,yash.sharma658@college.edu,Guntur,Placed
+659,24MECH0659,Diya Reddy,Female,20,MECH,3,C,7.41,71.6,0,9897945277,diya.reddy659@college.edu,Vijayawada,Not Eligible Yet
+660,24ECE0660,Anjali Iyer,Male,22,ECE,3,B,6.89,81.8,0,9401459841,anjali.iyer660@college.edu,Nellore,Not Eligible Yet
+661,24ECE0661,Rohit Patel,Female,19,ECE,1,B,6.65,71.6,1,9821742994,rohit.patel661@college.edu,Rajahmundry,Not Eligible Yet
+662,24CIVIL0662,Charan Sharma,Female,18,CIVIL,1,B,9.55,94.1,1,9882649192,charan.sharma662@college.edu,Chennai,Not Eligible Yet
+663,24AIDS0663,Yash Das,Female,20,AI&DS,1,C,6.01,79.5,0,9797964448,yash.das663@college.edu,Vijayawada,Not Eligible Yet
+664,24MECH0664,Meghana Patel,Female,23,MECH,4,A,7.88,82.6,0,9874404381,meghana.patel664@college.edu,Hyderabad,Not Interested
+665,24CIVIL0665,Srinivas Nair,Female,21,CIVIL,4,D,6.74,67.8,0,9127242908,srinivas.nair665@college.edu,Hyderabad,Not Eligible Yet
+666,24ECE0666,Deepak Nair,Male,20,ECE,2,C,8.38,68.3,0,9967646831,deepak.nair666@college.edu,Vijayawada,Not Eligible Yet
+667,24ECE0667,Arjun Chowdhury,Female,20,ECE,3,D,9.16,92.9,0,9354201569,arjun.chowdhury667@college.edu,Guntur,Not Eligible Yet
+668,24AIDS0668,Srinivas Patel,Male,18,AI&DS,1,B,9.48,77.8,1,9844493568,srinivas.patel668@college.edu,Guntur,Not Eligible Yet
+669,24MECH0669,Akash Iyer,Female,20,MECH,1,D,6.25,88.0,0,9416664467,akash.iyer669@college.edu,Visakhapatnam,Not Eligible Yet
+670,24CIVIL0670,Sanjay Singh,Male,20,CIVIL,1,A,7.72,80.8,0,9765946168,sanjay.singh670@college.edu,Rajahmundry,Not Eligible Yet
+671,24AIDS0671,Aadhya Mishra,Female,22,AI&DS,3,B,8.23,68.7,0,9865899399,aadhya.mishra671@college.edu,Guntur,Not Eligible Yet
+672,24AIDS0672,Vamsi Das,Female,20,AI&DS,2,A,7.83,86.1,0,9247824939,vamsi.das672@college.edu,Vijayawada,Not Eligible Yet
+673,24EEE0673,Sneha Gupta,Male,20,EEE,2,B,6.56,75.5,0,9496028184,sneha.gupta673@college.edu,Vijayawada,Not Eligible Yet
+674,24ECE0674,Vamsi Kumar,Female,19,ECE,1,C,6.74,71.8,2,9943170597,vamsi.kumar674@college.edu,Guntur,Not Eligible Yet
+675,24AIDS0675,Tejas Mishra,Female,21,AI&DS,2,C,9.24,84.2,0,9421726973,tejas.mishra675@college.edu,Visakhapatnam,Not Eligible Yet
+676,24CSE0676,Swathi Kumar,Male,20,CSE,2,B,9.5,86.7,0,9600940025,swathi.kumar676@college.edu,Rajahmundry,Not Eligible Yet
+677,24MECH0677,Pranav Mehta,Female,19,MECH,2,A,6.7,98.7,0,9179168231,pranav.mehta677@college.edu,Bengaluru,Not Eligible Yet
+678,24ECE0678,Nikhil Mishra,Female,18,ECE,1,C,6.17,66.0,0,9286988502,nikhil.mishra678@college.edu,Hyderabad,Not Eligible Yet
+679,24EEE0679,Zoya Singh,Male,19,EEE,2,D,6.08,93.7,2,9122541876,zoya.singh679@college.edu,Tirupati,Not Eligible Yet
+680,24EEE0680,Ishita Iyer,Male,19,EEE,1,D,7.4,77.7,0,9665783275,ishita.iyer680@college.edu,Rajahmundry,Not Eligible Yet
+681,24CSE0681,Chaitanya Rao,Male,18,CSE,1,A,8.02,88.6,0,9561215232,chaitanya.rao681@college.edu,Hyderabad,Not Eligible Yet
+682,24CIVIL0682,Nikhil Rao,Male,20,CIVIL,2,D,6.2,92.1,1,9645750195,nikhil.rao682@college.edu,Rajahmundry,Not Eligible Yet
+683,24AIDS0683,Anjali Chowdhury,Male,21,AI&DS,2,C,6.64,78.2,1,9906526424,anjali.chowdhury683@college.edu,Kurnool,Not Eligible Yet
+684,24CIVIL0684,Swathi Naidu,Female,22,CIVIL,4,D,8.0,81.4,2,9608693948,swathi.naidu684@college.edu,Chennai,Not Eligible Yet
+685,24ECE0685,Harsha Mishra,Female,19,ECE,2,C,6.83,79.5,0,9268802235,harsha.mishra685@college.edu,Bengaluru,Not Eligible Yet
+686,24ECE0686,Anjali Iyer,Female,19,ECE,1,D,6.87,66.4,0,9461178812,anjali.iyer686@college.edu,Visakhapatnam,Not Eligible Yet
+687,24MECH0687,Sanjay Gupta,Female,22,MECH,4,C,7.04,65.8,0,9385212538,sanjay.gupta687@college.edu,Guntur,Not Eligible Yet
+688,24CIVIL0688,Vamsi Sharma,Male,21,CIVIL,3,B,6.37,67.4,0,9315077574,vamsi.sharma688@college.edu,Bengaluru,Not Eligible Yet
+689,24EEE0689,Nisha Das,Male,20,EEE,3,C,9.79,90.6,1,9380392053,nisha.das689@college.edu,Vijayawada,Not Eligible Yet
+690,24EEE0690,Rohit Mehta,Male,22,EEE,3,B,7.79,82.4,1,9260289403,rohit.mehta690@college.edu,Visakhapatnam,Not Eligible Yet
+691,24AIDS0691,Ishita Chowdhury,Female,19,AI&DS,2,D,8.75,80.7,1,9436161542,ishita.chowdhury691@college.edu,Hyderabad,Not Eligible Yet
+692,24ECE0692,Srinivas Mishra,Male,23,ECE,4,D,7.42,84.6,0,9892212155,srinivas.mishra692@college.edu,Vijayawada,Not Interested
+693,24ECE0693,Sanjay Joshi,Female,22,ECE,3,A,8.9,88.5,0,9730238228,sanjay.joshi693@college.edu,Vijayawada,Not Eligible Yet
+694,24ECE0694,Pranav Mehta,Male,20,ECE,2,C,9.61,67.2,0,9609788629,pranav.mehta694@college.edu,Guntur,Not Eligible Yet
+695,24AIDS0695,Nisha Sharma,Male,21,AI&DS,4,A,8.56,71.0,1,9747857066,nisha.sharma695@college.edu,Nellore,Eligible
+696,24CSE0696,Riya Iyer,Male,19,CSE,2,A,7.11,82.8,0,9495837354,riya.iyer696@college.edu,Kurnool,Not Eligible Yet
+697,24EEE0697,Sanjay Mehta,Male,19,EEE,2,B,6.49,79.2,1,9517677937,sanjay.mehta697@college.edu,Hyderabad,Not Eligible Yet
+698,24EEE0698,Sneha Chowdhury,Female,19,EEE,2,A,8.23,82.1,0,9395752497,sneha.chowdhury698@college.edu,Hyderabad,Not Eligible Yet
+699,24MECH0699,Ananya Mehta,Male,21,MECH,2,A,8.0,96.0,1,9594140885,ananya.mehta699@college.edu,Nellore,Not Eligible Yet
+700,24EEE0700,Swathi Gupta,Female,20,EEE,1,B,7.49,93.0,1,9545659507,swathi.gupta700@college.edu,Hyderabad,Not Eligible Yet
+701,24MECH0701,Riya Naidu,Male,23,MECH,4,C,7.5,97.2,0,9269578434,riya.naidu701@college.edu,Chennai,Not Eligible Yet
+702,24MECH0702,Sanjay Patel,Male,20,MECH,2,B,8.87,82.1,1,9540337297,sanjay.patel702@college.edu,Nellore,Not Eligible Yet
+703,24ECE0703,Vamsi Kumar,Male,21,ECE,3,D,6.28,88.6,1,9509262673,vamsi.kumar703@college.edu,Bengaluru,Not Eligible Yet
+704,24MECH0704,Aditya Reddy,Male,20,MECH,2,D,8.69,69.6,0,9598479857,aditya.reddy704@college.edu,Nellore,Not Eligible Yet
+705,24CSE0705,Zoya Singh,Female,20,CSE,1,A,6.53,92.9,1,9283168644,zoya.singh705@college.edu,Vijayawada,Not Eligible Yet
+706,24EEE0706,Bhavya Mehta,Male,19,EEE,2,B,8.55,65.4,0,9573152913,bhavya.mehta706@college.edu,Bengaluru,Not Eligible Yet
+707,24AIDS0707,Aditya Verma,Male,20,AI&DS,2,D,9.18,92.6,0,9869239841,aditya.verma707@college.edu,Guntur,Not Eligible Yet
+708,24MECH0708,Akash Reddy,Female,20,MECH,3,A,8.92,96.6,0,9356130725,akash.reddy708@college.edu,Hyderabad,Not Eligible Yet
+709,24MECH0709,Aadhya Reddy,Male,19,MECH,1,B,8.58,67.1,2,9203726898,aadhya.reddy709@college.edu,Tirupati,Not Eligible Yet
+710,24MECH0710,Vamsi Patel,Female,19,MECH,1,D,8.14,71.4,0,9681648793,vamsi.patel710@college.edu,Visakhapatnam,Not Eligible Yet
+711,24ECE0711,Ishita Patel,Female,19,ECE,1,D,6.66,78.7,0,9517885994,ishita.patel711@college.edu,Hyderabad,Not Eligible Yet
+712,24CSE0712,Meghana Gupta,Male,19,CSE,2,B,9.36,79.0,1,9636415668,meghana.gupta712@college.edu,Guntur,Not Eligible Yet
+713,24CSE0713,Pavan Mehta,Male,22,CSE,3,A,7.26,86.6,1,9441414434,pavan.mehta713@college.edu,Nellore,Not Eligible Yet
+714,24CSE0714,Srinivas Mehta,Male,22,CSE,3,A,7.91,89.0,0,9122777694,srinivas.mehta714@college.edu,Rajahmundry,Not Eligible Yet
+715,24ECE0715,Sneha Singh,Male,22,ECE,3,B,6.23,77.7,0,9262855048,sneha.singh715@college.edu,Visakhapatnam,Not Eligible Yet
+716,24ECE0716,Srinivas Nair,Female,18,ECE,1,C,7.21,91.8,0,9950167054,srinivas.nair716@college.edu,Visakhapatnam,Not Eligible Yet
+717,24ECE0717,Pranav Nair,Male,18,ECE,1,D,8.05,95.8,0,9366650945,pranav.nair717@college.edu,Hyderabad,Not Eligible Yet
+718,24ECE0718,Srinivas Reddy,Female,20,ECE,3,B,6.27,71.5,0,9251968832,srinivas.reddy718@college.edu,Hyderabad,Not Eligible Yet
+719,24ECE0719,Zoya Verma,Male,18,ECE,1,D,7.62,80.9,0,9312102949,zoya.verma719@college.edu,Hyderabad,Not Eligible Yet
+720,24CIVIL0720,Keerthi Iyer,Female,20,CIVIL,2,C,9.68,71.8,1,9616653113,keerthi.iyer720@college.edu,Guntur,Not Eligible Yet
+721,24MECH0721,Deepak Chowdhury,Female,22,MECH,4,A,7.92,90.0,1,9980042882,deepak.chowdhury721@college.edu,Nellore,Placed
+722,24CSE0722,Nisha Rao,Male,23,CSE,4,D,6.98,80.8,0,9502810902,nisha.rao722@college.edu,Kurnool,Not Eligible Yet
+723,24ECE0723,Tejas Verma,Male,20,ECE,3,D,6.02,94.3,1,9501856264,tejas.verma723@college.edu,Nellore,Not Eligible Yet
+724,24MECH0724,Rahul Mehta,Female,22,MECH,4,D,8.44,85.0,0,9141690057,rahul.mehta724@college.edu,Guntur,Eligible
+725,24MECH0725,Manoj Gupta,Female,21,MECH,2,B,8.41,77.5,0,9513748324,manoj.gupta725@college.edu,Visakhapatnam,Not Eligible Yet
+726,24MECH0726,Aditya Gupta,Male,21,MECH,2,C,8.65,86.9,0,9589058010,aditya.gupta726@college.edu,Tirupati,Not Eligible Yet
+727,24CIVIL0727,Deepak Reddy,Male,19,CIVIL,2,B,8.45,96.2,0,9729384966,deepak.reddy727@college.edu,Guntur,Not Eligible Yet
+728,24ECE0728,Sneha Das,Female,23,ECE,4,D,7.9,83.1,1,9729298362,sneha.das728@college.edu,Chennai,Not Eligible Yet
+729,24AIDS0729,Priya Rao,Male,19,AI&DS,1,A,9.53,78.5,0,9280816719,priya.rao729@college.edu,Nellore,Not Eligible Yet
+730,24CSE0730,Sanjay Joshi,Female,20,CSE,1,B,8.79,70.8,0,9855964923,sanjay.joshi730@college.edu,Tirupati,Not Eligible Yet
+731,24ECE0731,Vamsi Patel,Male,22,ECE,4,C,6.71,67.0,0,9915146872,vamsi.patel731@college.edu,Hyderabad,Placed
+732,24AIDS0732,Arjun Naidu,Female,21,AI&DS,4,B,6.33,69.2,0,9131854320,arjun.naidu732@college.edu,Rajahmundry,Placed
+733,24AIDS0733,Arjun Reddy,Female,21,AI&DS,4,B,8.86,65.2,0,9144946135,arjun.reddy733@college.edu,Guntur,Not Eligible Yet
+734,24CIVIL0734,Vishnu Das,Female,22,CIVIL,4,C,8.88,85.5,0,9832141597,vishnu.das734@college.edu,Bengaluru,Eligible
+735,24AIDS0735,Rohit Mehta,Male,22,AI&DS,3,D,9.71,94.7,1,9103312131,rohit.mehta735@college.edu,Nellore,Not Eligible Yet
+736,24CSE0736,Bhavya Das,Male,21,CSE,2,D,7.4,86.0,0,9610241500,bhavya.das736@college.edu,Kurnool,Not Eligible Yet
+737,24CSE0737,Pavan Reddy,Female,21,CSE,2,B,9.32,98.0,1,9827921175,pavan.reddy737@college.edu,Nellore,Not Eligible Yet
+738,24MECH0738,Anjali Gupta,Female,22,MECH,4,C,9.75,94.1,2,9888424722,anjali.gupta738@college.edu,Visakhapatnam,Eligible
+739,24CIVIL0739,Vamsi Kumar,Female,19,CIVIL,2,B,9.03,75.2,0,9689212238,vamsi.kumar739@college.edu,Nellore,Not Eligible Yet
+740,24CSE0740,Tejas Singh,Male,21,CSE,4,A,6.65,97.1,0,9213247207,tejas.singh740@college.edu,Visakhapatnam,Eligible
+741,24MECH0741,Meghana Singh,Female,22,MECH,3,D,8.53,97.4,0,9814549811,meghana.singh741@college.edu,Tirupati,Not Eligible Yet
+742,24AIDS0742,Pranav Singh,Male,20,AI&DS,1,D,8.45,77.8,1,9890276649,pranav.singh742@college.edu,Visakhapatnam,Not Eligible Yet
+743,24ECE0743,Manoj Patel,Male,20,ECE,2,C,6.42,76.6,0,9302031360,manoj.patel743@college.edu,Guntur,Not Eligible Yet
+744,24EEE0744,Riya Reddy,Male,20,EEE,2,C,8.24,71.5,0,9554942797,riya.reddy744@college.edu,Bengaluru,Not Eligible Yet
+745,24CIVIL0745,Karthik Patel,Male,20,CIVIL,2,D,8.05,80.7,0,9418711858,karthik.patel745@college.edu,Hyderabad,Not Eligible Yet
+746,24ECE0746,Nikhil Rao,Male,23,ECE,4,D,8.28,75.5,3,9232568472,nikhil.rao746@college.edu,Chennai,Eligible
+747,24EEE0747,Riya Kumar,Male,22,EEE,4,A,9.15,72.2,1,9970180403,riya.kumar747@college.edu,Hyderabad,Eligible
+748,24AIDS0748,Rohit Iyer,Male,23,AI&DS,4,C,9.77,83.6,0,9827888175,rohit.iyer748@college.edu,Nellore,Placed
+749,24CSE0749,Vishnu Iyer,Male,22,CSE,4,A,8.66,83.6,0,9447268058,vishnu.iyer749@college.edu,Rajahmundry,Not Interested
+750,24AIDS0750,Deepak Rao,Female,22,AI&DS,4,A,7.11,69.9,0,9903569612,deepak.rao750@college.edu,Hyderabad,Not Interested
+751,24AIDS0751,Chaitanya Mehta,Male,19,AI&DS,1,A,9.52,68.3,2,9292879335,chaitanya.mehta751@college.edu,Vijayawada,Not Eligible Yet
+752,24CIVIL0752,Sneha Rao,Female,22,CIVIL,3,B,6.93,69.0,0,9425010492,sneha.rao752@college.edu,Rajahmundry,Not Eligible Yet
+753,24AIDS0753,Anjali Mishra,Female,23,AI&DS,4,A,7.05,87.2,0,9228849432,anjali.mishra753@college.edu,Guntur,Not Eligible Yet
+754,24AIDS0754,Vamsi Singh,Female,21,AI&DS,4,D,7.04,90.3,1,9294450987,vamsi.singh754@college.edu,Visakhapatnam,Placed
+755,24CIVIL0755,Charan Patel,Male,21,CIVIL,3,D,8.71,94.3,0,9535220327,charan.patel755@college.edu,Vijayawada,Not Eligible Yet
+756,24CSE0756,Vishnu Patel,Male,21,CSE,4,C,6.69,85.4,0,9695627964,vishnu.patel756@college.edu,Nellore,Not Eligible Yet
+757,24ECE0757,Ishita Naidu,Female,18,ECE,1,C,9.24,66.2,2,9643472611,ishita.naidu757@college.edu,Chennai,Not Eligible Yet
+758,24MECH0758,Aarav Singh,Male,20,MECH,2,D,9.6,82.7,1,9807765063,aarav.singh758@college.edu,Kurnool,Not Eligible Yet
+759,24CIVIL0759,Varun Nair,Female,21,CIVIL,2,B,8.3,82.4,0,9811479581,varun.nair759@college.edu,Vijayawada,Not Eligible Yet
+760,24ECE0760,Chaitanya Iyer,Male,18,ECE,1,D,8.29,72.3,0,9237967359,chaitanya.iyer760@college.edu,Rajahmundry,Not Eligible Yet
+761,24CIVIL0761,Manoj Das,Male,19,CIVIL,1,B,7.52,67.8,0,9556708953,manoj.das761@college.edu,Tirupati,Not Eligible Yet
+762,24AIDS0762,Meghana Verma,Female,20,AI&DS,1,B,8.14,87.0,0,9276139909,meghana.verma762@college.edu,Visakhapatnam,Not Eligible Yet
+763,24MECH0763,Riya Reddy,Male,22,MECH,3,A,6.29,69.2,0,9688806503,riya.reddy763@college.edu,Visakhapatnam,Not Eligible Yet
+764,24AIDS0764,Anjali Gupta,Female,21,AI&DS,3,B,6.56,92.1,0,9205169636,anjali.gupta764@college.edu,Visakhapatnam,Not Eligible Yet
+765,24CSE0765,Bhavya Naidu,Female,23,CSE,4,C,8.24,92.4,0,9474628744,bhavya.naidu765@college.edu,Rajahmundry,Not Interested
+766,24CSE0766,Deepak Nair,Male,19,CSE,1,D,7.31,90.2,2,9670889348,deepak.nair766@college.edu,Kurnool,Not Eligible Yet
+767,24CIVIL0767,Charan Das,Male,21,CIVIL,4,C,8.5,69.9,0,9387086253,charan.das767@college.edu,Vijayawada,Eligible
+768,24AIDS0768,Swathi Naidu,Female,22,AI&DS,4,B,9.03,82.1,0,9559309261,swathi.naidu768@college.edu,Kurnool,Not Interested
+769,24EEE0769,Sanjay Nair,Male,18,EEE,1,A,6.29,73.2,0,9717741601,sanjay.nair769@college.edu,Vijayawada,Not Eligible Yet
+770,24CIVIL0770,Varun Reddy,Male,21,CIVIL,3,D,7.82,82.5,3,9671670179,varun.reddy770@college.edu,Guntur,Not Eligible Yet
+771,24CIVIL0771,Harsha Reddy,Female,20,CIVIL,1,A,8.67,90.5,0,9893477119,harsha.reddy771@college.edu,Kurnool,Not Eligible Yet
+772,24ECE0772,Vishnu Singh,Male,21,ECE,4,D,7.39,69.5,0,9154660511,vishnu.singh772@college.edu,Visakhapatnam,Placed
+773,24EEE0773,Bhavya Nair,Male,21,EEE,2,D,9.16,93.9,1,9411454646,bhavya.nair773@college.edu,Chennai,Not Eligible Yet
+774,24EEE0774,Ishita Reddy,Female,22,EEE,3,A,6.83,75.4,2,9790387684,ishita.reddy774@college.edu,Kurnool,Not Eligible Yet
+775,24CIVIL0775,Varun Kumar,Male,22,CIVIL,4,B,8.34,76.2,0,9105534508,varun.kumar775@college.edu,Bengaluru,Placed
+776,24CSE0776,Arjun Joshi,Male,21,CSE,3,A,6.32,82.5,0,9232975024,arjun.joshi776@college.edu,Nellore,Not Eligible Yet
+777,24AIDS0777,Manoj Singh,Female,20,AI&DS,2,A,7.42,77.4,1,9675984517,manoj.singh777@college.edu,Chennai,Not Eligible Yet
+778,24AIDS0778,Srinivas Naidu,Female,21,AI&DS,4,A,8.84,65.2,1,9861518573,srinivas.naidu778@college.edu,Hyderabad,Eligible
+779,24CSE0779,Charan Mehta,Female,21,CSE,3,A,9.42,70.5,0,9614639071,charan.mehta779@college.edu,Chennai,Not Eligible Yet
+780,24MECH0780,Zoya Chowdhury,Male,23,MECH,4,B,7.23,91.0,1,9638866546,zoya.chowdhury780@college.edu,Visakhapatnam,Not Eligible Yet
+781,24CSE0781,Charan Rao,Male,19,CSE,1,A,8.92,73.0,0,9467371097,charan.rao781@college.edu,Visakhapatnam,Not Eligible Yet
+782,24MECH0782,Nikhil Iyer,Male,22,MECH,4,B,8.89,73.4,0,9648939598,nikhil.iyer782@college.edu,Tirupati,Not Interested
+783,24EEE0783,Keerthi Joshi,Female,18,EEE,1,B,8.68,92.5,1,9639376963,keerthi.joshi783@college.edu,Rajahmundry,Not Eligible Yet
+784,24CIVIL0784,Chaitanya Singh,Male,19,CIVIL,2,A,7.52,74.3,0,9256990862,chaitanya.singh784@college.edu,Visakhapatnam,Not Eligible Yet
+785,24CSE0785,Akash Mehta,Female,20,CSE,2,A,8.66,98.3,0,9557495466,akash.mehta785@college.edu,Nellore,Not Eligible Yet
+786,24AIDS0786,Akash Iyer,Female,21,AI&DS,4,A,7.38,97.1,1,9365180555,akash.iyer786@college.edu,Bengaluru,Eligible
+787,24CSE0787,Akash Nair,Female,18,CSE,1,D,7.79,95.9,0,9298470441,akash.nair787@college.edu,Chennai,Not Eligible Yet
+788,24EEE0788,Nisha Patel,Male,20,EEE,3,C,8.6,91.2,0,9487157696,nisha.patel788@college.edu,Bengaluru,Not Eligible Yet
+789,24AIDS0789,Meghana Verma,Female,21,AI&DS,2,A,6.33,68.6,0,9746215549,meghana.verma789@college.edu,Guntur,Not Eligible Yet
+790,24ECE0790,Srinivas Patel,Female,19,ECE,2,A,7.15,81.1,1,9672903058,srinivas.patel790@college.edu,Tirupati,Not Eligible Yet
+791,24ECE0791,Sanjay Das,Female,21,ECE,2,D,9.4,80.2,1,9568286479,sanjay.das791@college.edu,Guntur,Not Eligible Yet
+792,24CIVIL0792,Vamsi Reddy,Female,21,CIVIL,4,B,8.65,69.4,0,9707925535,vamsi.reddy792@college.edu,Vijayawada,Placed
+793,24AIDS0793,Yash Sharma,Female,21,AI&DS,4,C,8.85,78.1,1,9530408291,yash.sharma793@college.edu,Rajahmundry,Eligible
+794,24CSE0794,Deepak Verma,Male,21,CSE,2,C,9.34,91.9,0,9859945091,deepak.verma794@college.edu,Kurnool,Not Eligible Yet
+795,24ECE0795,Nikhil Das,Male,22,ECE,3,C,6.65,66.6,0,9141973293,nikhil.das795@college.edu,Tirupati,Not Eligible Yet
+796,24EEE0796,Akash Singh,Male,19,EEE,2,A,6.01,76.8,0,9496329017,akash.singh796@college.edu,Bengaluru,Not Eligible Yet
+797,24AIDS0797,Charan Joshi,Female,22,AI&DS,3,B,7.23,66.9,1,9984690021,charan.joshi797@college.edu,Bengaluru,Not Eligible Yet
+798,24ECE0798,Manoj Reddy,Male,22,ECE,3,B,8.75,88.4,2,9376322265,manoj.reddy798@college.edu,Rajahmundry,Not Eligible Yet
+799,24ECE0799,Pavan Das,Female,21,ECE,4,D,6.59,72.9,1,9495824195,pavan.das799@college.edu,Tirupati,Not Eligible Yet
+800,24ECE0800,Swathi Naidu,Male,21,ECE,4,C,8.16,97.1,0,9402842708,swathi.naidu800@college.edu,Vijayawada,Eligible
+801,24MECH0801,Harsha Sharma,Male,19,MECH,2,B,7.62,80.5,0,9532185699,harsha.sharma801@college.edu,Guntur,Not Eligible Yet
+802,24CIVIL0802,Arjun Mehta,Male,19,CIVIL,1,B,6.42,65.5,1,9146965512,arjun.mehta802@college.edu,Tirupati,Not Eligible Yet
+803,24EEE0803,Chaitanya Reddy,Male,18,EEE,1,B,8.06,92.8,1,9191230681,chaitanya.reddy803@college.edu,Hyderabad,Not Eligible Yet
+804,24CIVIL0804,Srinivas Naidu,Female,22,CIVIL,4,A,7.82,73.3,0,9387179376,srinivas.naidu804@college.edu,Kurnool,Not Eligible Yet
+805,24CSE0805,Yash Iyer,Female,18,CSE,1,B,6.54,96.0,0,9558633176,yash.iyer805@college.edu,Visakhapatnam,Not Eligible Yet
+806,24AIDS0806,Nikhil Singh,Female,22,AI&DS,3,A,8.61,89.3,2,9628088326,nikhil.singh806@college.edu,Tirupati,Not Eligible Yet
+807,24CSE0807,Nikhil Gupta,Female,19,CSE,2,B,6.45,96.4,2,9146543311,nikhil.gupta807@college.edu,Rajahmundry,Not Eligible Yet
+808,24MECH0808,Vishnu Nair,Male,21,MECH,2,C,8.58,70.1,0,9423801630,vishnu.nair808@college.edu,Rajahmundry,Not Eligible Yet
+809,24CSE0809,Meghana Chowdhury,Female,22,CSE,3,B,9.54,92.6,1,9182001118,meghana.chowdhury809@college.edu,Vijayawada,Not Eligible Yet
+810,24EEE0810,Chaitanya Mehta,Female,20,EEE,2,B,9.1,68.8,0,9880296481,chaitanya.mehta810@college.edu,Chennai,Not Eligible Yet
+811,24EEE0811,Charan Naidu,Female,19,EEE,1,C,7.21,79.4,0,9544469356,charan.naidu811@college.edu,Rajahmundry,Not Eligible Yet
+812,24AIDS0812,Keerthi Mehta,Female,20,AI&DS,2,A,8.05,81.7,0,9347083582,keerthi.mehta812@college.edu,Visakhapatnam,Not Eligible Yet
+813,24CIVIL0813,Karthik Sharma,Female,21,CIVIL,4,B,6.01,98.8,0,9699550021,karthik.sharma813@college.edu,Nellore,Not Eligible Yet
+814,24EEE0814,Rahul Rao,Female,19,EEE,1,B,6.55,94.0,2,9552127953,rahul.rao814@college.edu,Hyderabad,Not Eligible Yet
+815,24CSE0815,Charan Patel,Male,21,CSE,2,A,7.43,65.9,2,9499092905,charan.patel815@college.edu,Vijayawada,Not Eligible Yet
+816,24MECH0816,Deepak Reddy,Female,18,MECH,1,B,6.54,73.3,0,9992352458,deepak.reddy816@college.edu,Visakhapatnam,Not Eligible Yet
+817,24MECH0817,Charan Iyer,Female,20,MECH,2,A,8.75,80.1,0,9114183509,charan.iyer817@college.edu,Chennai,Not Eligible Yet
+818,24CSE0818,Aditya Naidu,Male,21,CSE,2,C,6.04,93.3,0,9587797163,aditya.naidu818@college.edu,Kurnool,Not Eligible Yet
+819,24AIDS0819,Karthik Joshi,Female,20,AI&DS,3,D,9.7,82.7,2,9234360915,karthik.joshi819@college.edu,Hyderabad,Not Eligible Yet
+820,24ECE0820,Rohit Naidu,Male,20,ECE,1,D,9.1,80.9,0,9789225036,rohit.naidu820@college.edu,Visakhapatnam,Not Eligible Yet
+821,24CSE0821,Rahul Joshi,Female,19,CSE,2,B,6.41,67.6,0,9460209952,rahul.joshi821@college.edu,Vijayawada,Not Eligible Yet
+822,24ECE0822,Yash Patel,Male,20,ECE,3,A,8.27,90.7,0,9692374111,yash.patel822@college.edu,Hyderabad,Not Eligible Yet
+823,24EEE0823,Anjali Kumar,Female,21,EEE,2,C,6.17,75.7,2,9109103960,anjali.kumar823@college.edu,Bengaluru,Not Eligible Yet
+824,24CIVIL0824,Harsha Nair,Female,22,CIVIL,4,A,9.7,88.9,0,9537320614,harsha.nair824@college.edu,Kurnool,Eligible
+825,24CIVIL0825,Riya Chowdhury,Male,20,CIVIL,1,B,7.1,70.2,0,9772111616,riya.chowdhury825@college.edu,Guntur,Not Eligible Yet
+826,24AIDS0826,Chaitanya Naidu,Female,21,AI&DS,2,A,7.7,69.5,0,9769446639,chaitanya.naidu826@college.edu,Visakhapatnam,Not Eligible Yet
+827,24ECE0827,Ishita Sharma,Female,21,ECE,4,A,6.37,65.5,1,9432368523,ishita.sharma827@college.edu,Kurnool,Placed
+828,24MECH0828,Pavan Naidu,Male,19,MECH,1,D,6.26,84.6,0,9176379467,pavan.naidu828@college.edu,Tirupati,Not Eligible Yet
+829,24MECH0829,Manoj Mishra,Male,22,MECH,3,D,9.57,98.0,0,9490275201,manoj.mishra829@college.edu,Chennai,Not Eligible Yet
+830,24CIVIL0830,Charan Mishra,Female,22,CIVIL,4,A,7.42,88.2,0,9382208801,charan.mishra830@college.edu,Vijayawada,Eligible
+831,24ECE0831,Arjun Iyer,Male,19,ECE,1,C,8.17,94.0,0,9596367839,arjun.iyer831@college.edu,Guntur,Not Eligible Yet
+832,24MECH0832,Yash Mishra,Male,21,MECH,4,B,6.69,68.7,2,9526216314,yash.mishra832@college.edu,Visakhapatnam,Placed
+833,24CSE0833,Pavan Nair,Female,22,CSE,3,B,6.81,90.2,0,9588100108,pavan.nair833@college.edu,Vijayawada,Not Eligible Yet
+834,24ECE0834,Ishita Nair,Male,23,ECE,4,D,9.75,91.3,0,9968156321,ishita.nair834@college.edu,Bengaluru,Placed
+835,24CSE0835,Ishita Reddy,Female,21,CSE,2,D,7.03,86.6,0,9174366341,ishita.reddy835@college.edu,Chennai,Not Eligible Yet
+836,24EEE0836,Srinivas Joshi,Male,20,EEE,1,C,8.54,73.8,1,9199258043,srinivas.joshi836@college.edu,Visakhapatnam,Not Eligible Yet
+837,24ECE0837,Harsha Gupta,Female,21,ECE,3,C,7.81,88.4,0,9848065282,harsha.gupta837@college.edu,Visakhapatnam,Not Eligible Yet
+838,24CSE0838,Zoya Verma,Male,21,CSE,4,A,7.23,98.5,2,9897614449,zoya.verma838@college.edu,Bengaluru,Eligible
+839,24ECE0839,Varun Nair,Female,21,ECE,4,D,7.0,89.6,3,9993901688,varun.nair839@college.edu,Tirupati,Not Eligible Yet
+840,24ECE0840,Harsha Joshi,Male,20,ECE,1,A,8.28,72.3,0,9305255412,harsha.joshi840@college.edu,Rajahmundry,Not Eligible Yet
+841,24EEE0841,Aadhya Iyer,Male,21,EEE,3,C,8.66,87.1,0,9540649487,aadhya.iyer841@college.edu,Bengaluru,Not Eligible Yet
+842,24CIVIL0842,Pranav Patel,Female,21,CIVIL,4,D,7.63,71.0,0,9682787203,pranav.patel842@college.edu,Visakhapatnam,Not Interested
+843,24AIDS0843,Nikhil Patel,Male,21,AI&DS,4,A,6.34,65.6,2,9211320508,nikhil.patel843@college.edu,Nellore,Placed
+844,24AIDS0844,Nikhil Joshi,Male,18,AI&DS,1,C,8.95,83.8,0,9604201501,nikhil.joshi844@college.edu,Guntur,Not Eligible Yet
+845,24MECH0845,Rohit Reddy,Male,22,MECH,4,B,7.93,74.1,0,9430064674,rohit.reddy845@college.edu,Visakhapatnam,Not Eligible Yet
+846,24CSE0846,Aarav Reddy,Female,21,CSE,4,B,9.19,82.6,1,9440881854,aarav.reddy846@college.edu,Bengaluru,Placed
+847,24CIVIL0847,Rohit Verma,Female,21,CIVIL,2,B,9.15,92.2,0,9238373601,rohit.verma847@college.edu,Visakhapatnam,Not Eligible Yet
+848,24EEE0848,Vishnu Naidu,Male,22,EEE,4,D,6.38,92.2,0,9778004684,vishnu.naidu848@college.edu,Rajahmundry,Not Interested
+849,24EEE0849,Ishita Sharma,Male,19,EEE,2,A,7.66,86.4,0,9129869705,ishita.sharma849@college.edu,Rajahmundry,Not Eligible Yet
+850,24CSE0850,Charan Mishra,Female,23,CSE,4,B,6.71,87.2,0,9308122210,charan.mishra850@college.edu,Kurnool,Placed
+851,24AIDS0851,Akash Das,Male,20,AI&DS,3,D,8.38,86.7,0,9211045552,akash.das851@college.edu,Guntur,Not Eligible Yet
+852,24CSE0852,Chaitanya Iyer,Male,19,CSE,1,A,6.35,81.8,0,9323308727,chaitanya.iyer852@college.edu,Visakhapatnam,Not Eligible Yet
+853,24CSE0853,Sanjay Sharma,Male,22,CSE,4,B,6.8,79.3,1,9780271060,sanjay.sharma853@college.edu,Nellore,Eligible
+854,24CSE0854,Diya Kumar,Female,20,CSE,3,B,9.78,81.5,0,9686781414,diya.kumar854@college.edu,Vijayawada,Not Eligible Yet
+855,24CSE0855,Harsha Reddy,Male,22,CSE,3,B,7.97,90.9,0,9491798349,harsha.reddy855@college.edu,Guntur,Not Eligible Yet
+856,24EEE0856,Charan Singh,Male,18,EEE,1,C,7.02,81.4,2,9474256340,charan.singh856@college.edu,Kurnool,Not Eligible Yet
+857,24AIDS0857,Varun Joshi,Female,23,AI&DS,4,D,9.5,73.5,0,9870298232,varun.joshi857@college.edu,Chennai,Not Eligible Yet
+858,24ECE0858,Ishita Chowdhury,Female,21,ECE,3,D,7.61,90.4,1,9768845554,ishita.chowdhury858@college.edu,Guntur,Not Eligible Yet
+859,24ECE0859,Priya Gupta,Male,23,ECE,4,D,7.71,95.2,2,9371725032,priya.gupta859@college.edu,Rajahmundry,Not Interested
+860,24MECH0860,Aadhya Patel,Female,20,MECH,3,C,7.63,71.3,0,9331052236,aadhya.patel860@college.edu,Bengaluru,Not Eligible Yet
+861,24EEE0861,Bhavya Reddy,Male,20,EEE,2,A,8.72,72.3,0,9445273745,bhavya.reddy861@college.edu,Hyderabad,Not Eligible Yet
+862,24EEE0862,Ishita Verma,Female,21,EEE,4,D,8.72,97.2,1,9820851174,ishita.verma862@college.edu,Guntur,Placed
+863,24EEE0863,Harsha Verma,Female,20,EEE,3,B,7.89,98.7,0,9233243500,harsha.verma863@college.edu,Nellore,Not Eligible Yet
+864,24CIVIL0864,Riya Singh,Male,22,CIVIL,3,C,7.08,86.9,1,9104989688,riya.singh864@college.edu,Nellore,Not Eligible Yet
+865,24MECH0865,Aditya Kumar,Male,20,MECH,2,C,6.26,68.2,1,9876587717,aditya.kumar865@college.edu,Chennai,Not Eligible Yet
+866,24EEE0866,Rohit Sharma,Female,22,EEE,3,A,7.88,66.6,0,9588103427,rohit.sharma866@college.edu,Nellore,Not Eligible Yet
+867,24CIVIL0867,Arjun Reddy,Male,20,CIVIL,3,B,9.14,69.7,3,9838303704,arjun.reddy867@college.edu,Visakhapatnam,Not Eligible Yet
+868,24CSE0868,Harsha Gupta,Male,21,CSE,2,A,9.55,94.5,0,9942827240,harsha.gupta868@college.edu,Vijayawada,Not Eligible Yet
+869,24EEE0869,Ananya Das,Female,19,EEE,1,B,7.03,70.8,0,9594666160,ananya.das869@college.edu,Guntur,Not Eligible Yet
+870,24ECE0870,Sanjay Mishra,Male,22,ECE,3,C,7.98,73.2,0,9626244990,sanjay.mishra870@college.edu,Chennai,Not Eligible Yet
+871,24ECE0871,Anjali Das,Male,22,ECE,4,A,7.34,93.4,0,9794855129,anjali.das871@college.edu,Hyderabad,Not Eligible Yet
+872,24CSE0872,Ishita Reddy,Male,23,CSE,4,C,7.78,78.1,0,9465555552,ishita.reddy872@college.edu,Hyderabad,Not Interested
+873,24AIDS0873,Chaitanya Patel,Male,21,AI&DS,4,B,9.48,78.1,0,9766233236,chaitanya.patel873@college.edu,Kurnool,Placed
+874,24CSE0874,Meghana Joshi,Female,19,CSE,2,A,9.62,84.6,0,9594945715,meghana.joshi874@college.edu,Guntur,Not Eligible Yet
+875,24CSE0875,Swathi Naidu,Male,20,CSE,2,A,7.81,83.1,0,9227051781,swathi.naidu875@college.edu,Kurnool,Not Eligible Yet
+876,24MECH0876,Ishita Rao,Female,21,MECH,3,D,7.93,66.8,0,9205025589,ishita.rao876@college.edu,Vijayawada,Not Eligible Yet
+877,24ECE0877,Nikhil Verma,Male,22,ECE,4,A,8.26,83.0,0,9565537242,nikhil.verma877@college.edu,Guntur,Eligible
+878,24ECE0878,Bhavya Kumar,Female,18,ECE,1,D,6.91,83.1,0,9765956951,bhavya.kumar878@college.edu,Visakhapatnam,Not Eligible Yet
+879,24CSE0879,Karthik Das,Male,22,CSE,4,C,6.65,71.9,0,9857904261,karthik.das879@college.edu,Rajahmundry,Not Eligible Yet
+880,24ECE0880,Vamsi Chowdhury,Female,20,ECE,1,B,9.24,88.4,0,9831693296,vamsi.chowdhury880@college.edu,Guntur,Not Eligible Yet
+881,24EEE0881,Swathi Rao,Female,19,EEE,2,A,7.63,65.7,2,9182653501,swathi.rao881@college.edu,Tirupati,Not Eligible Yet
+882,24MECH0882,Aarav Chowdhury,Female,20,MECH,3,B,6.42,92.8,0,9412092259,aarav.chowdhury882@college.edu,Hyderabad,Not Eligible Yet
+883,24CSE0883,Arjun Iyer,Female,21,CSE,2,C,7.72,90.0,3,9376316195,arjun.iyer883@college.edu,Nellore,Not Eligible Yet
+884,24MECH0884,Aarav Gupta,Female,21,MECH,3,A,9.39,91.3,1,9739674758,aarav.gupta884@college.edu,Nellore,Not Eligible Yet
+885,24AIDS0885,Vishnu Reddy,Female,20,AI&DS,3,B,9.25,87.4,0,9634543293,vishnu.reddy885@college.edu,Vijayawada,Not Eligible Yet
+886,24EEE0886,Ishita Sharma,Female,21,EEE,4,D,8.43,97.8,1,9828857585,ishita.sharma886@college.edu,Kurnool,Eligible
+887,24AIDS0887,Priya Nair,Female,21,AI&DS,3,C,9.59,74.4,0,9722251460,priya.nair887@college.edu,Kurnool,Not Eligible Yet
+888,24MECH0888,Swathi Gupta,Male,19,MECH,1,C,9.68,82.0,0,9600704573,swathi.gupta888@college.edu,Tirupati,Not Eligible Yet
+889,24EEE0889,Varun Iyer,Female,19,EEE,2,A,6.06,66.4,0,9736805806,varun.iyer889@college.edu,Guntur,Not Eligible Yet
+890,24EEE0890,Aarav Joshi,Male,22,EEE,4,B,6.19,69.7,1,9943170042,aarav.joshi890@college.edu,Kurnool,Not Eligible Yet
+891,24ECE0891,Harsha Joshi,Male,22,ECE,3,D,7.11,66.1,2,9367070195,harsha.joshi891@college.edu,Visakhapatnam,Not Eligible Yet
+892,24CSE0892,Manoj Iyer,Female,23,CSE,4,B,6.66,79.8,1,9963696719,manoj.iyer892@college.edu,Rajahmundry,Eligible
+893,24ECE0893,Sanjay Verma,Female,21,ECE,3,D,6.33,84.3,0,9686081231,sanjay.verma893@college.edu,Tirupati,Not Eligible Yet
+894,24CSE0894,Charan Mishra,Female,23,CSE,4,D,7.91,88.3,0,9480312748,charan.mishra894@college.edu,Visakhapatnam,Placed
+895,24MECH0895,Aadhya Reddy,Male,22,MECH,4,C,8.87,85.9,0,9360538788,aadhya.reddy895@college.edu,Rajahmundry,Eligible
+896,24CSE0896,Rohit Rao,Male,21,CSE,3,A,7.76,90.9,0,9158353824,rohit.rao896@college.edu,Guntur,Not Eligible Yet
+897,24AIDS0897,Arjun Nair,Male,22,AI&DS,3,A,9.12,84.2,0,9165353048,arjun.nair897@college.edu,Guntur,Not Eligible Yet
+898,24CIVIL0898,Chaitanya Chowdhury,Male,19,CIVIL,2,A,9.4,86.7,0,9774566985,chaitanya.chowdhury898@college.edu,Chennai,Not Eligible Yet
+899,24CIVIL0899,Harsha Patel,Male,21,CIVIL,4,A,6.58,94.9,0,9365435516,harsha.patel899@college.edu,Hyderabad,Placed
+900,24CIVIL0900,Srinivas Mehta,Male,18,CIVIL,1,C,7.14,81.4,0,9352251857,srinivas.mehta900@college.edu,Kurnool,Not Eligible Yet
+901,24AIDS0901,Bhavya Joshi,Male,21,AI&DS,4,B,6.7,92.8,0,9283368785,bhavya.joshi901@college.edu,Kurnool,Placed
+902,24EEE0902,Nikhil Patel,Female,23,EEE,4,D,7.4,74.4,0,9958837980,nikhil.patel902@college.edu,Guntur,Placed
+903,24ECE0903,Aadhya Iyer,Male,22,ECE,4,D,8.14,65.4,0,9792680500,aadhya.iyer903@college.edu,Rajahmundry,Not Eligible Yet
+904,24ECE0904,Swathi Mishra,Male,21,ECE,3,C,9.73,77.2,1,9640312926,swathi.mishra904@college.edu,Hyderabad,Not Eligible Yet
+905,24CIVIL0905,Ananya Naidu,Male,23,CIVIL,4,C,7.34,89.5,0,9867921183,ananya.naidu905@college.edu,Tirupati,Not Interested
+906,24CSE0906,Tejas Mehta,Male,22,CSE,4,B,8.19,96.5,1,9664180363,tejas.mehta906@college.edu,Chennai,Not Interested
+907,24CIVIL0907,Rohit Sharma,Male,20,CIVIL,3,D,9.24,70.4,0,9214053320,rohit.sharma907@college.edu,Nellore,Not Eligible Yet
+908,24ECE0908,Keerthi Patel,Female,20,ECE,3,A,8.87,79.3,0,9757026515,keerthi.patel908@college.edu,Chennai,Not Eligible Yet
+909,24AIDS0909,Ananya Mishra,Male,19,AI&DS,1,B,9.51,75.9,0,9505475993,ananya.mishra909@college.edu,Tirupati,Not Eligible Yet
+910,24EEE0910,Varun Mishra,Female,21,EEE,2,A,6.86,90.2,0,9667504169,varun.mishra910@college.edu,Hyderabad,Not Eligible Yet
+911,24AIDS0911,Arjun Verma,Male,18,AI&DS,1,C,9.39,77.2,0,9686886707,arjun.verma911@college.edu,Guntur,Not Eligible Yet
+912,24AIDS0912,Vishnu Chowdhury,Male,19,AI&DS,2,B,8.17,81.1,0,9764086621,vishnu.chowdhury912@college.edu,Kurnool,Not Eligible Yet
+913,24MECH0913,Sneha Mehta,Male,18,MECH,1,A,6.48,82.6,0,9635488193,sneha.mehta913@college.edu,Hyderabad,Not Eligible Yet
+914,24CSE0914,Karthik Iyer,Female,21,CSE,3,B,8.67,67.3,1,9409311735,karthik.iyer914@college.edu,Guntur,Not Eligible Yet
+915,24MECH0915,Akash Patel,Female,22,MECH,3,D,9.56,98.5,0,9134654722,akash.patel915@college.edu,Bengaluru,Not Eligible Yet
+916,24ECE0916,Pranav Kumar,Male,20,ECE,3,B,8.08,90.0,2,9812251737,pranav.kumar916@college.edu,Vijayawada,Not Eligible Yet
+917,24CSE0917,Aditya Gupta,Female,21,CSE,4,B,8.27,85.8,0,9692088353,aditya.gupta917@college.edu,Nellore,Not Interested
+918,24CSE0918,Aditya Chowdhury,Male,20,CSE,1,A,8.47,79.7,0,9344550216,aditya.chowdhury918@college.edu,Vijayawada,Not Eligible Yet
+919,24ECE0919,Yash Mehta,Male,20,ECE,1,D,8.1,66.8,1,9846723590,yash.mehta919@college.edu,Tirupati,Not Eligible Yet
+920,24CIVIL0920,Charan Patel,Male,22,CIVIL,4,D,9.41,98.4,0,9307925415,charan.patel920@college.edu,Bengaluru,Not Eligible Yet
+921,24ECE0921,Anjali Reddy,Female,19,ECE,2,A,8.84,95.2,1,9709937556,anjali.reddy921@college.edu,Vijayawada,Not Eligible Yet
+922,24CSE0922,Ananya Kumar,Female,19,CSE,2,C,6.69,66.5,0,9803525252,ananya.kumar922@college.edu,Hyderabad,Not Eligible Yet
+923,24CIVIL0923,Rohit Chowdhury,Male,21,CIVIL,2,C,8.5,67.6,2,9321041522,rohit.chowdhury923@college.edu,Nellore,Not Eligible Yet
+924,24MECH0924,Nisha Gupta,Female,21,MECH,2,A,9.3,73.3,1,9442372191,nisha.gupta924@college.edu,Kurnool,Not Eligible Yet
+925,24EEE0925,Sanjay Chowdhury,Male,19,EEE,1,B,6.77,69.7,2,9347536065,sanjay.chowdhury925@college.edu,Chennai,Not Eligible Yet
+926,24EEE0926,Chaitanya Kumar,Female,18,EEE,1,C,8.47,80.4,0,9635697836,chaitanya.kumar926@college.edu,Vijayawada,Not Eligible Yet
+927,24CIVIL0927,Riya Iyer,Male,20,CIVIL,3,D,7.06,85.7,0,9510800934,riya.iyer927@college.edu,Visakhapatnam,Not Eligible Yet
+928,24ECE0928,Ishita Mehta,Female,18,ECE,1,A,8.02,87.5,0,9919261049,ishita.mehta928@college.edu,Bengaluru,Not Eligible Yet
+929,24EEE0929,Ishita Reddy,Female,21,EEE,3,A,9.29,91.6,2,9907884127,ishita.reddy929@college.edu,Vijayawada,Not Eligible Yet
+930,24AIDS0930,Nikhil Mishra,Female,22,AI&DS,4,A,6.62,78.0,1,9355794196,nikhil.mishra930@college.edu,Tirupati,Not Interested
+931,24CSE0931,Keerthi Iyer,Female,21,CSE,3,A,6.15,74.3,0,9368986577,keerthi.iyer931@college.edu,Rajahmundry,Not Eligible Yet
+932,24EEE0932,Pavan Das,Female,18,EEE,1,B,7.76,80.0,0,9485176589,pavan.das932@college.edu,Nellore,Not Eligible Yet
+933,24CSE0933,Anjali Das,Female,23,CSE,4,C,9.62,80.0,0,9944751038,anjali.das933@college.edu,Chennai,Placed
+934,24ECE0934,Diya Rao,Male,21,ECE,2,C,6.88,87.3,0,9644085581,diya.rao934@college.edu,Nellore,Not Eligible Yet
+935,24CIVIL0935,Karthik Kumar,Female,20,CIVIL,1,A,9.71,65.5,1,9479390612,karthik.kumar935@college.edu,Kurnool,Not Eligible Yet
+936,24EEE0936,Arjun Sharma,Female,21,EEE,2,D,6.43,67.6,0,9712425712,arjun.sharma936@college.edu,Bengaluru,Not Eligible Yet
+937,24AIDS0937,Sneha Iyer,Male,18,AI&DS,1,D,7.24,91.8,0,9538234355,sneha.iyer937@college.edu,Bengaluru,Not Eligible Yet
+938,24CIVIL0938,Aadhya Naidu,Male,21,CIVIL,3,B,7.11,70.1,0,9214065852,aadhya.naidu938@college.edu,Rajahmundry,Not Eligible Yet
+939,24CIVIL0939,Vamsi Gupta,Female,20,CIVIL,3,A,9.16,66.1,1,9509191906,vamsi.gupta939@college.edu,Guntur,Not Eligible Yet
+940,24CIVIL0940,Vamsi Joshi,Male,21,CIVIL,2,D,9.22,82.9,0,9607159571,vamsi.joshi940@college.edu,Kurnool,Not Eligible Yet
+941,24EEE0941,Harsha Iyer,Female,20,EEE,3,A,6.92,91.1,0,9589434256,harsha.iyer941@college.edu,Bengaluru,Not Eligible Yet
+942,24MECH0942,Sanjay Gupta,Female,19,MECH,2,B,8.13,67.6,0,9619856957,sanjay.gupta942@college.edu,Rajahmundry,Not Eligible Yet
+943,24MECH0943,Karthik Rao,Male,23,MECH,4,C,8.95,78.9,0,9248326856,karthik.rao943@college.edu,Rajahmundry,Not Interested
+944,24EEE0944,Bhavya Sharma,Female,21,EEE,3,B,7.92,70.0,0,9929621228,bhavya.sharma944@college.edu,Hyderabad,Not Eligible Yet
+945,24CSE0945,Deepak Patel,Female,22,CSE,4,A,8.91,89.2,0,9208442957,deepak.patel945@college.edu,Tirupati,Placed
+946,24AIDS0946,Deepak Sharma,Female,18,AI&DS,1,C,9.44,77.0,0,9698010612,deepak.sharma946@college.edu,Hyderabad,Not Eligible Yet
+947,24EEE0947,Pranav Patel,Male,20,EEE,1,D,6.28,96.3,2,9539025895,pranav.patel947@college.edu,Nellore,Not Eligible Yet
+948,24MECH0948,Charan Naidu,Male,22,MECH,3,D,6.58,65.3,0,9823602225,charan.naidu948@college.edu,Nellore,Not Eligible Yet
+949,24MECH0949,Diya Das,Male,20,MECH,3,D,7.13,76.6,0,9663922382,diya.das949@college.edu,Rajahmundry,Not Eligible Yet
+950,24EEE0950,Riya Nair,Male,20,EEE,3,D,6.16,97.1,1,9884889041,riya.nair950@college.edu,Hyderabad,Not Eligible Yet
+951,24CIVIL0951,Pavan Patel,Female,21,CIVIL,3,C,6.63,74.8,0,9340124494,pavan.patel951@college.edu,Tirupati,Not Eligible Yet
+952,24CIVIL0952,Arjun Singh,Female,22,CIVIL,3,A,6.54,72.0,1,9910529844,arjun.singh952@college.edu,Tirupati,Not Eligible Yet
+953,24CIVIL0953,Yash Verma,Female,18,CIVIL,1,D,9.16,65.9,0,9713283921,yash.verma953@college.edu,Visakhapatnam,Not Eligible Yet
+954,24MECH0954,Nikhil Patel,Male,21,MECH,2,A,7.69,79.7,0,9246907242,nikhil.patel954@college.edu,Chennai,Not Eligible Yet
+955,24CSE0955,Karthik Sharma,Male,21,CSE,3,C,7.93,74.4,0,9650662174,karthik.sharma955@college.edu,Guntur,Not Eligible Yet
+956,24MECH0956,Arjun Nair,Male,18,MECH,1,B,9.61,86.3,0,9729581402,arjun.nair956@college.edu,Visakhapatnam,Not Eligible Yet
+957,24EEE0957,Tejas Rao,Male,20,EEE,2,B,8.79,74.6,0,9195253470,tejas.rao957@college.edu,Kurnool,Not Eligible Yet
+958,24MECH0958,Ananya Chowdhury,Male,20,MECH,1,B,8.7,66.3,0,9758609850,ananya.chowdhury958@college.edu,Visakhapatnam,Not Eligible Yet
+959,24MECH0959,Vishnu Naidu,Male,21,MECH,3,C,9.33,87.7,0,9776486873,vishnu.naidu959@college.edu,Visakhapatnam,Not Eligible Yet
+960,24EEE0960,Arjun Singh,Female,21,EEE,4,B,7.59,80.2,0,9556195626,arjun.singh960@college.edu,Guntur,Placed
+961,24AIDS0961,Bhavya Gupta,Female,22,AI&DS,3,D,8.68,91.3,0,9964062922,bhavya.gupta961@college.edu,Nellore,Not Eligible Yet
+962,24CSE0962,Nikhil Das,Male,21,CSE,2,C,9.38,91.6,0,9928712497,nikhil.das962@college.edu,Bengaluru,Not Eligible Yet
+963,24MECH0963,Rohit Mishra,Female,21,MECH,3,A,6.99,66.9,0,9335093839,rohit.mishra963@college.edu,Bengaluru,Not Eligible Yet
+964,24MECH0964,Sanjay Singh,Male,22,MECH,3,C,8.04,91.5,0,9758530127,sanjay.singh964@college.edu,Rajahmundry,Not Eligible Yet
+965,24CIVIL0965,Yash Reddy,Male,21,CIVIL,2,A,9.05,68.1,1,9478709419,yash.reddy965@college.edu,Kurnool,Not Eligible Yet
+966,24CIVIL0966,Ishita Gupta,Male,20,CIVIL,1,C,9.74,93.5,0,9870753896,ishita.gupta966@college.edu,Hyderabad,Not Eligible Yet
+967,24EEE0967,Pranav Joshi,Male,19,EEE,2,D,9.57,66.2,0,9665384538,pranav.joshi967@college.edu,Guntur,Not Eligible Yet
+968,24CSE0968,Deepak Iyer,Male,22,CSE,4,D,6.87,91.3,0,9392549808,deepak.iyer968@college.edu,Guntur,Placed
+969,24AIDS0969,Meghana Sharma,Male,19,AI&DS,2,B,7.92,88.9,1,9121640386,meghana.sharma969@college.edu,Vijayawada,Not Eligible Yet
+970,24AIDS0970,Rohit Verma,Female,20,AI&DS,1,D,8.98,79.5,1,9424435363,rohit.verma970@college.edu,Chennai,Not Eligible Yet
+971,24CSE0971,Manoj Chowdhury,Female,20,CSE,2,C,7.63,72.6,0,9399099265,manoj.chowdhury971@college.edu,Nellore,Not Eligible Yet
+972,24MECH0972,Aadhya Chowdhury,Female,21,MECH,2,A,9.62,90.9,1,9585621597,aadhya.chowdhury972@college.edu,Hyderabad,Not Eligible Yet
+973,24ECE0973,Srinivas Gupta,Male,22,ECE,4,B,8.44,76.3,1,9189801911,srinivas.gupta973@college.edu,Guntur,Eligible
+974,24CIVIL0974,Keerthi Sharma,Female,21,CIVIL,4,A,8.34,81.1,1,9708424215,keerthi.sharma974@college.edu,Hyderabad,Placed
+975,24MECH0975,Nisha Nair,Male,20,MECH,3,B,7.22,84.2,0,9105982646,nisha.nair975@college.edu,Chennai,Not Eligible Yet
+976,24CIVIL0976,Varun Nair,Male,23,CIVIL,4,A,7.22,89.1,0,9894230707,varun.nair976@college.edu,Guntur,Placed
+977,24MECH0977,Charan Reddy,Male,18,MECH,1,D,6.63,79.9,2,9141942442,charan.reddy977@college.edu,Visakhapatnam,Not Eligible Yet
+978,24AIDS0978,Vishnu Chowdhury,Female,19,AI&DS,2,C,7.52,75.1,0,9415920240,vishnu.chowdhury978@college.edu,Chennai,Not Eligible Yet
+979,24CIVIL0979,Deepak Rao,Male,21,CIVIL,3,D,9.05,97.4,0,9749096026,deepak.rao979@college.edu,Chennai,Not Eligible Yet
+980,24ECE0980,Pranav Rao,Female,21,ECE,4,C,6.04,79.2,0,9171992253,pranav.rao980@college.edu,Vijayawada,Eligible
+981,24AIDS0981,Arjun Mishra,Male,20,AI&DS,2,B,6.23,80.9,0,9476295823,arjun.mishra981@college.edu,Kurnool,Not Eligible Yet
+982,24AIDS0982,Aarav Verma,Female,21,AI&DS,3,D,9.12,94.5,0,9428296909,aarav.verma982@college.edu,Bengaluru,Not Eligible Yet
+983,24CIVIL0983,Yash Verma,Male,20,CIVIL,3,B,6.39,72.4,0,9705225064,yash.verma983@college.edu,Guntur,Not Eligible Yet
+984,24EEE0984,Meghana Chowdhury,Male,21,EEE,4,B,6.01,72.9,0,9962594605,meghana.chowdhury984@college.edu,Rajahmundry,Eligible
+985,24MECH0985,Aarav Nair,Male,19,MECH,2,C,6.52,92.4,0,9606472290,aarav.nair985@college.edu,Bengaluru,Not Eligible Yet
+986,24ECE0986,Zoya Mehta,Female,19,ECE,1,A,8.68,77.1,1,9440346008,zoya.mehta986@college.edu,Kurnool,Not Eligible Yet
+987,24ECE0987,Meghana Rao,Female,20,ECE,2,C,7.86,91.8,0,9699046021,meghana.rao987@college.edu,Visakhapatnam,Not Eligible Yet
+988,24CSE0988,Rahul Mishra,Female,21,CSE,2,C,8.77,72.3,0,9305067526,rahul.mishra988@college.edu,Visakhapatnam,Not Eligible Yet
+989,24AIDS0989,Aarav Verma,Female,20,AI&DS,2,C,8.0,65.2,0,9201048210,aarav.verma989@college.edu,Bengaluru,Not Eligible Yet
+990,24CIVIL0990,Meghana Kumar,Female,20,CIVIL,1,C,8.44,78.5,3,9856198237,meghana.kumar990@college.edu,Chennai,Not Eligible Yet
+991,24CIVIL0991,Aadhya Chowdhury,Female,20,CIVIL,1,A,7.86,81.1,1,9905935956,aadhya.chowdhury991@college.edu,Kurnool,Not Eligible Yet
+992,24EEE0992,Aadhya Rao,Male,20,EEE,1,D,9.31,69.5,0,9228233515,aadhya.rao992@college.edu,Vijayawada,Not Eligible Yet
+993,24EEE0993,Arjun Das,Male,18,EEE,1,C,7.26,87.8,1,9861614695,arjun.das993@college.edu,Tirupati,Not Eligible Yet
+994,24AIDS0994,Rohit Joshi,Male,20,AI&DS,1,A,6.25,93.1,0,9882711695,rohit.joshi994@college.edu,Chennai,Not Eligible Yet
+995,24MECH0995,Aditya Das,Male,21,MECH,2,C,8.62,78.9,0,9999644995,aditya.das995@college.edu,Vijayawada,Not Eligible Yet
+996,24CIVIL0996,Priya Patel,Female,21,CIVIL,3,A,8.16,88.7,0,9597148239,priya.patel996@college.edu,Guntur,Not Eligible Yet
+997,24ECE0997,Anjali Naidu,Male,19,ECE,1,A,8.91,91.8,0,9502148053,anjali.naidu997@college.edu,Nellore,Not Eligible Yet
+998,24EEE0998,Harsha Rao,Male,20,EEE,2,D,7.44,74.8,0,9706707033,harsha.rao998@college.edu,Bengaluru,Not Eligible Yet
+999,24ECE0999,Meghana Verma,Female,19,ECE,2,C,6.99,79.9,0,9481342741,meghana.verma999@college.edu,Rajahmundry,Not Eligible Yet
+1000,24AIDS1000,Vishnu Mishra,Male,22,AI&DS,3,B,6.14,93.4,0,9677618107,vishnu.mishra1000@college.edu,Rajahmundry,Not Eligible Yet
